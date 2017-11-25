@@ -1,0 +1,9 @@
+AES u¿ywany jest przez setki milionów u¿ytkowników na ca³ym œwiecie.
+ S³u¿y do ochrony transakcji internetowych, transmisji bezprzewodowych i danych przechowywanych lokalnie. 
+Naukowcy szacowali, ¿e ma pewne s³aboœci, ale jak dot¹d, przez tyle lat, nie uda³o siê go z³amaæ.
+
+Usterka dotyczy wszystkich wersji AES. Jednak nie jest taka oczywista. 
+Aby dobraæ siê do klucza deszyfruj¹cego nale¿y wykonaæ 8 * 10^37 kroków. 
+Innymi s³owy, je¿eli trylion maszyn, z których ka¿da mog³a analizowaæ 
+miliard kluczy na sekundê, pracowa³a dwa miliardy lat, to klucz AES-128 zosta³by z³amany. 
+Usterka wiêc nie ma ¿adnego praktycznego znaczenia.
