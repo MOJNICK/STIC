@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdflatex 2017.10.15)  20 NOV 2017 20:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  26 NOV 2017 22:02
 entering extended mode
 **./STiC_AES.tex
 (STiC_AES.tex
 LaTeX2e <2017-04-15>
-Babel <3.14> and hyphenation patterns for 75 language(s) loaded.
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamer.cls"
-Document Class: beamer 2017/08/22 v3.43 A class for typesetting presentations
+Document Class: beamer 2017/11/10 v3.44 A class for typesetting presentations
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasemodes.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count79
 )
 \beamer@tempbox=\box26
@@ -61,11 +61,12 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 \beamer@animationtempb=\count95
 \beamer@xpos=\count96
 \beamer@ypos=\count97
-\beamer@showpartnumber=\count98
-\beamer@currentsubsection=\count99
-\beamer@coveringdepth=\count100
-\beamer@sectionadjust=\count101
-\beamer@tocsectionnumber=\count102
+\beamer@ypos@offset=\count98
+\beamer@showpartnumber=\count99
+\beamer@currentsubsection=\count100
+\beamer@coveringdepth=\count101
+\beamer@sectionadjust=\count102
+\beamer@tocsectionnumber=\count103
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseoptions.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
@@ -85,9 +86,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count103
-\Gm@cntv=\count104
-\c@Gm@tempcnt=\count105
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
 \Gm@bindingoffset=\dimen118
 \Gm@wd@mp=\dimen119
 \Gm@odd@mp=\dimen120
@@ -160,10 +161,10 @@ x"
 \pgf@yc=\dimen137
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count106
-\c@pgf@countb=\count107
-\c@pgf@countc=\count108
-\c@pgf@countd=\count109
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
 \t@pgf@toka=\toks20
 \t@pgf@tokb=\toks21
 \t@pgf@tokc=\toks22
@@ -182,8 +183,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
 ex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count110
-\pgfsyssoftpath@bigbuffer@items=\count111
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
 ex"
@@ -213,7 +214,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen138
-\pgfmath@count=\count112
+\pgfmath@count=\count113
 \pgfmath@box=\box35
 \pgfmath@toks=\toks23
 \pgfmath@stack@operand=\toks24
@@ -237,7 +238,7 @@ ex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
 hmetics.code.tex")))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count113
+\c@pgfmathroundto@lastzeros=\count114
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
 "
@@ -275,7 +276,7 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
-\pgf@picture@serial@count=\count114
+\pgf@picture@serial@count=\count115
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
 de.tex"
@@ -308,7 +309,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen162
-\pgf@sys@shading@range@num=\count115
+\pgf@sys@shading@range@num=\count116
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
 x"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -331,8 +332,8 @@ ex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 ))) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\xxcolor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count116
-\XC@countmixins=\count117
+\XC@nummixins=\count117
+\XC@countmixins=\count118
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
@@ -395,13 +396,13 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen163
-\Hy@linkcounter=\count118
-\Hy@pagecounter=\count119
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count120
+\Hy@SavedSpaceFactor=\count121
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -416,7 +417,7 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count121
+\c@Hy@tempcnt=\count122
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
@@ -424,7 +425,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen164
-\Fld@menulength=\count122
+\Fld@menulength=\count123
 \Field@Width=\dimen165
 \Fld@charsize=\dimen166
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -436,7 +437,7 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count123
+\Hy@abspage=\count124
 
 
 Package hyperref Message: Stopped early.
@@ -447,8 +448,8 @@ Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count124
-\c@bookmark@seq@number=\count125
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -484,40 +485,40 @@ appings.tex")))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasemisc.sty")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetwoscreens.sty")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseoverlay.sty"
-\beamer@argscount=\count126
+\beamer@argscount=\count127
 \beamer@lastskipcover=\skip44
-\beamer@trivlistdepth=\count127
+\beamer@trivlistdepth=\count128
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetitle.sty")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasesection.sty"
-\c@lecture=\count128
-\c@part=\count129
-\c@section=\count130
-\c@subsection=\count131
-\c@subsubsection=\count132
+\c@lecture=\count129
+\c@part=\count130
+\c@section=\count131
+\c@subsection=\count132
+\c@subsubsection=\count133
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseframe.sty"
 \beamer@framebox=\box40
 \beamer@frametitlebox=\box41
 \beamer@zoombox=\box42
-\beamer@zoomcount=\count133
-\beamer@zoomframecount=\count134
+\beamer@zoomcount=\count134
+\beamer@zoomframecount=\count135
 \beamer@frametextheight=\dimen167
-\c@subsectionslide=\count135
+\c@subsectionslide=\count136
 \beamer@frametopskip=\skip45
 \beamer@framebottomskip=\skip46
 \beamer@frametopskipautobreak=\skip47
 \beamer@framebottomskipautobreak=\skip48
 \beamer@envbody=\toks27
 \framewidth=\dimen168
-\c@framenumber=\count136
+\c@framenumber=\count137
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseverbatim.sty"
 \beamer@verbatimfileout=\write4
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseframesize.sty"
 \beamer@splitbox=\box43
-\beamer@autobreakcount=\count137
+\beamer@autobreakcount=\count138
 \beamer@autobreaklastheight=\dimen169
 \beamer@frametitletoks=\toks28
 \beamer@framesubtitletoks=\toks29
@@ -556,8 +557,8 @@ appings.tex")))
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
-\c@figure=\count138
-\c@table=\count139
+\c@figure=\count139
+\c@table=\count140
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 )
@@ -585,13 +586,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count140
+\inf@bad=\count141
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count141
-\leftroot@=\count142
+\uproot@=\count142
+\leftroot@=\count143
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count143
-\DOTSCASE@=\count144
+\classnum@=\count144
+\DOTSCASE@=\count145
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -600,15 +601,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen181
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count145
-\c@MaxMatrixCols=\count146
+\macc@depth=\count146
+\c@MaxMatrixCols=\count147
 \dotsspace@=\muskip11
-\c@parentequation=\count147
-\dspbrk@lvl=\count148
+\c@parentequation=\count148
+\dspbrk@lvl=\count149
 \tag@help=\toks33
-\row@=\count149
-\column@=\count150
-\maxfields@=\count151
+\row@=\count150
+\column@=\count151
+\maxfields@=\count152
 \andhelp@=\toks34
 \eqnshift@=\dimen182
 \alignsep@=\dimen183
@@ -635,7 +636,7 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip56
 \dth@everypar=\toks42
 )
-\c@theorem=\count152
+\c@theorem=\count153
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasethemes.sty"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\themes\theme\beamerthemedefault.
@@ -653,7 +654,7 @@ Package: beamerouterthemedefault 2007/01/28  (rcs-revision 1.14)
 )))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etex-pkg\etex.sty"
 Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
-\et@xins=\count153
+\et@xins=\count154
 ) (beamerthemeAGH.sty
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\themes\color\beamercolorthemewha
 le.sty")
@@ -682,15 +683,16 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen197
 \cmidrulekern=\dimen198
 \defaultaddspace=\dimen199
-\@cmidla=\count154
-\@cmidlb=\count155
+\@cmidla=\count155
+\@cmidlb=\count156
 Normal \dimen register pool exhausted, switching to extended pool.
 \@aboverulesep=\dimen256
 \@belowrulesep=\dimen257
-\@thisruleclass=\count156
-\@lastruleclass=\count157
+\@thisruleclass=\count157
+\@lastruleclass=\count158
 \@thisrulewidth=\dimen258
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\braket\braket.sty")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
@@ -728,16 +730,16 @@ Package: relsize 2003/07/04 ver 3.1
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\floatflt\floatflt.sty"
 Package: floatflt 1997/07/16 v. 1.31
-\c@OptionTest=\count158
+\c@OptionTest=\count159
 \figbox=\box53
 \tabbox=\box54
 \pagebox=\box55
-\ffigcount=\count159
-\ftabcount=\count160
-\fftest=\count161
-\hangcount=\count162
-\nosuccesstryfig=\count163
-\nosuccesstrytab=\count164
+\ffigcount=\count160
+\ftabcount=\count161
+\fftest=\count162
+\hangcount=\count163
+\nosuccesstryfig=\count164
+\nosuccesstrytab=\count165
 \figgutter=\dimen262
 \tabgutter=\dimen263
 \htdone=\dimen264
@@ -1104,7 +1106,7 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count165
+\c@r@tfl@t=\count166
 \rotFPtop=\skip67
 \rotFPbot=\skip68
 \rot@float@box=\box56
@@ -1118,10 +1120,10 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigbottomskip=\skip71
 \subfigcapmargin=\dimen271
 \subfiglabelskip=\skip72
-\c@subfigure=\count166
-\c@lofdepth=\count167
-\c@subtable=\count168
-\c@lotdepth=\count169
+\c@subfigure=\count167
+\c@lofdepth=\count168
+\c@subtable=\count169
+\c@lotdepth=\count170
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -1137,12 +1139,12 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 \TX@old@col=\dimen274
 \TX@target=\dimen275
 \TX@delta=\dimen276
-\TX@cols=\count170
+\TX@cols=\count171
 \TX@ftn=\toks50
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tabulary\tabulary.sty"
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-\TY@count=\count171
+\TY@count=\count172
 \TY@linewidth=\dimen277
 \tymin=\dimen278
 \tymax=\dimen279
@@ -1187,7 +1189,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
 code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count172
+\pgf@plot@mark@count=\count173
 \pgfplotmarksize=\dimen285
 )
 \tikz@lastx=\dimen286
@@ -1200,18 +1202,18 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box59
 \tikz@tempbox=\box60
 \tikz@tempbox@bg=\box61
-\tikztreelevel=\count173
-\tikznumberofchildren=\count174
-\tikznumberofcurrentchild=\count175
-\tikz@fig@count=\count176
+\tikztreelevel=\count174
+\tikznumberofchildren=\count175
+\tikznumberofcurrentchild=\count176
+\tikz@fig@count=\count177
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count177
-\pgfmatrixcurrentcolumn=\count178
-\pgf@matrix@numberofcolumns=\count179
+\pgfmatrixcurrentrow=\count178
+\pgfmatrixcurrentcolumn=\count179
+\pgf@matrix@numberofcolumns=\count180
 )
-\tikz@expandcount=\count180
+\tikz@expandcount=\count181
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
 librarytopaths.code.tex"
@@ -1281,7 +1283,7 @@ librarydecorations.code.tex"
 \pgfdecoratedinputsegmentcompleteddistance=\dimen295
 \pgfdecoratedinputsegmentremainingdistance=\dimen296
 \pgf@decorate@distancetomove=\dimen297
-\pgf@decorate@repeatstate=\count181
+\pgf@decorate@repeatstate=\count182
 \pgfdecorationsegmentamplitude=\dimen298
 \pgfdecorationsegmentlength=\dimen299
 )
@@ -1418,8 +1420,8 @@ Package: pgfplots 2017/06/05 v1.15 Data Visualization (1.15)
 \t@pgfplots@tokb=\toks54
 \t@pgfplots@tokc=\toks55
 \pgfplots@tmpa=\dimen300
-\c@pgfplots@coordindex=\count182
-\c@pgfplots@scanlineindex=\count183
+\c@pgfplots@coordindex=\count183
+\c@pgfplots@scanlineindex=\count184
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.
 tex"))
@@ -1435,7 +1437,7 @@ Package pgfplots: loading complementary arithmetics for your pgf version...
 fsupp_pgflibraryfpu.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpg
 fsupp_pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count184
+\c@pgfmathroundto@lastzeros=\count185
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsutil.code.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotslistst
@@ -1444,13 +1446,13 @@ ructure.code.tex")
 ructureext.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsarray.
 code.tex"
-\c@pgfplotsarray@tmp=\count185
+\c@pgfplotsarray@tmp=\count186
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsmatrix
 .code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstableshared
 .code.tex"
-\c@pgfplotstable@counta=\count186
+\c@pgfplotstable@counta=\count187
 \t@pgfplotstable@a=\toks56
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsdeque.
@@ -1463,7 +1465,7 @@ e.tex"))
 tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\libs\pgflibrarypgfplots.surf
 shading.code.tex"
-\c@pgfplotslibrarysurf@no=\count187
+\c@pgfplotslibrarysurf@no=\count188
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfs
 hading.pgfsys-pdftex.def")))
@@ -1486,7 +1488,7 @@ ex")))
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.markers.code.tex"
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsticks.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.paths.code.tex")
-\pgfplots@numplots=\count188
+\pgfplots@numplots=\count189
 \pgfplots@xmin@reg=\dimen301
 \pgfplots@xmax@reg=\dimen302
 \pgfplots@ymin@reg=\dimen303
@@ -1509,12 +1511,12 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 ("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen307
 \WF@size=\dimen308
-\c@WF@wrappedlines=\count189
+\c@WF@wrappedlines=\count190
 \WF@box=\box85
 \WF@everypar=\toks57
 Package: wrapfig 2003/01/31  v 3.6
 )
-\c@remark=\count190
+\c@remark=\count191
  (STiC_AES.aux
 
 LaTeX Warning: Label `fig:obrazek encryption' multiply defined.
@@ -1522,27 +1524,27 @@ LaTeX Warning: Label `fig:obrazek encryption' multiply defined.
 )
 \openout1 = `STiC_AES.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 141.
-LaTeX Font Info:    Try loading font information for OT4+cmr on input line 141.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 142.
+LaTeX Font Info:    Try loading font information for OT4+cmr on input line 142.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\ot4cmr.fd"
 File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    ... okay on input line 142.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1580,16 +1582,16 @@ LaTeX Font Info:    ... okay on input line 141.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count191
+\scratchcounter=\count192
 \scratchdimen=\dimen309
 \scratchbox=\box86
-\nofMPsegments=\count192
-\nofMParguments=\count193
+\nofMPsegments=\count193
+\nofMParguments=\count194
 \everyMPshowfont=\toks58
-\MPscratchCnt=\count194
+\MPscratchCnt=\count195
 \MPscratchDim=\dimen310
-\MPnumerator=\count195
-\makeMPintoPDFobject=\count196
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
 \everyMPtoPDFconversion=\toks59
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1606,7 +1608,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box87
-Package hyperref Info: Link coloring ON on input line 141.
+Package hyperref Info: Link coloring ON on input line 142.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1614,74 +1616,74 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count197
+\c@section@level=\count198
 )
-LaTeX Info: Redefining \ref on input line 141.
-LaTeX Info: Redefining \pageref on input line 141.
-LaTeX Info: Redefining \nameref on input line 141.
+LaTeX Info: Redefining \ref on input line 142.
+LaTeX Info: Redefining \pageref on input line 142.
+LaTeX Info: Redefining \nameref on input line 142.
 
 (STiC_AES.out) (STiC_AES.out)
 \@outlinefile=\write6
 \openout6 = `STiC_AES.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 141.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 142.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 141.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 142.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT4/cmr/m/n on input line 141.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+(Font)                  OT1/cmss/m/n --> OT4/cmr/m/n on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT4/cmss/bx/n on input line 141.
+(Font)                  OT1/cmr/bx/n --> OT4/cmss/bx/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT4/cmss/bx/n on input line 141.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 141.
+(Font)                  OT1/cmr/bx/n --> OT4/cmss/bx/n on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 141.
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT4/cmss/m/n on input line 141.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 141.
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/m/n on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT4/cmss/m/it on input line 141.
+(Font)                  OT1/cmr/m/it --> OT4/cmss/m/it on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT4/cmss/m/it on input line 141.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 141.
+(Font)                  OT1/cmr/bx/it --> OT4/cmss/m/it on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 141.
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 141.
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 142.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT4/cmss/m/n --> OT4/cmss/bx/n on input line 141.
+(Font)                  OT4/cmss/m/n --> OT4/cmss/bx/n on input line 142.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT4/cmss/m/it --> OT4/cmss/bx/it on input line 141.
+(Font)                  OT4/cmss/m/it --> OT4/cmss/bx/it on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT4/cmr/bx/n on input line 141.
+(Font)                  OT1/cmss/bx/n --> OT4/cmr/bx/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT4/cmss/bx/n --> OT4/cmss/bx/n on input line 141.
+(Font)                  OT4/cmss/bx/n --> OT4/cmss/bx/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT4/cmss/m/n --> OT4/cmss/bx/n on input line 141.
+(Font)                  OT4/cmss/m/n --> OT4/cmss/bx/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT4/cmss/m/it --> OT4/cmss/bx/it on input line 141.
+(Font)                  OT4/cmss/m/it --> OT4/cmss/bx/it on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT4/cmtt/m/n --> OT4/cmtt/bx/n on input line 141.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 141.
+(Font)                  OT4/cmtt/m/n --> OT4/cmtt/bx/n on input line 142.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 142.
 LaTeX Font Info:    Encoding `OT4' has changed to `OT1' for symbol font
 (Font)              `pureletters' in the math version `normal' on input line 14
-1.
+2.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT4/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-41.
+42.
 LaTeX Font Info:    Encoding `OT4' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 141.
+(Font)              `pureletters' in the math version `bold' on input line 142.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT4/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-141.
+142.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 141.
+ut line 142.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
 c-dictionary\translator-basic-dictionary-English.dict"
@@ -1711,19 +1713,19 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.15} into 
 your preamble.
- on input line 141.
+ on input line 142.
 
 (STiC_AES.nav)
-Overfull \hbox (7.33337pt too wide) detected at line 141
+Overfull \hbox (7.33337pt too wide) detected at line 142
  []  
  []
 
 <tlom.pdf, id=92, pagebox=cropbox, 1606.0pt x 1204.5pt>
 File: tlom.pdf Graphic file (type pdf)
 <use tlom.pdf>
-Package pdftex.def Info: tlom.pdf  used on input line 145. on input line 145.
+Package pdftex.def Info: tlom.pdf  used on input line 146. on input line 146.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 145.
+e 146.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1731,8 +1733,8 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./tlom.pdf>]
-(slides-stic-topic.tex
+{C:/Users/ja123/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./tlom.pdf>
+] (slides-stic-topic.tex
 <tlo.pdf, id=126, pagebox=cropbox, 1606.0pt x 1204.5pt>
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
@@ -1747,19 +1749,42 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [2
 
  <./tlo.pdf>]
-File: tlo.pdf Graphic file (type pdf)
-<use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 33. on input line 33.
-Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 33.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 46.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
-Overfull \hbox (7.33337pt too wide) has occurred while \output is active
- []  
- []
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 46.
 
-[3
+("C:\Program Files\MiKTeX 2.9\tex\latex\wasysym\uwasy.fd"
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 46.
 
-]
+("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \end{frame}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
 Package pdftex.def Info: tlo.pdf  used on input line 46. on input line 46.
@@ -1770,14 +1795,27 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
+[3
+
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 59. on input line 59.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 59.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
 [4
 
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 74. on input line 74.
+Package pdftex.def Info: tlo.pdf  used on input line 87. on input line 87.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 74.
+e 87.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1786,45 +1824,22 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [5
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 94.
-
-LaTeX Font Info:    No file OMScmss.fd. on input line 94.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 107
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 107.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 94.
+(Font)              for symbol `textbullet' on input line 107.
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 94.
-LaTeX Font Info:    Try loading font information for U+msa on input line 94.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 94.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+wasy on input line 94.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\wasysym\uwasy.fd"
-File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
-)
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 94.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 94.
+(Font)              <5> on input line 107.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 94. on input line 94.
+Package pdftex.def Info: tlo.pdf  used on input line 107. on input line 107.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 94.
+e 107.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1834,13 +1849,13 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `OT4/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT4/cmss/m/sl' tried instead on input line 113.
+(Font)              Font shape `OT4/cmss/m/sl' tried instead on input line 126.
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 113. on input line 113.
+Package pdftex.def Info: tlo.pdf  used on input line 126. on input line 126.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 113.
+e 126.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1851,9 +1866,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 127. on input line 127.
+Package pdftex.def Info: tlo.pdf  used on input line 140. on input line 140.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 127.
+e 140.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1865,19 +1880,19 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <encryption.png, id=319, 516.42938pt x 454.69875pt>
 File: encryption.png Graphic file (type png)
 <use encryption.png>
-Package pdftex.def Info: encryption.png  used on input line 141. on input line 
-141.
+Package pdftex.def Info: encryption.png  used on input line 154. on input line 
+154.
 Package pdftex.def Info: Requested size: 199.16928pt x 175.36136pt on input lin
-e 141.
+e 154.
 
-Overfull \vbox (3.73921pt too high) detected at line 141
+Overfull \vbox (3.73921pt too high) detected at line 154
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 141. on input line 141.
+Package pdftex.def Info: tlo.pdf  used on input line 154. on input line 154.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 141.
+e 154.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1888,9 +1903,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./encryption.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 159. on input line 159.
+Package pdftex.def Info: tlo.pdf  used on input line 172. on input line 172.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 159.
+e 172.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1902,14 +1917,14 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <sbox.png, id=373, 502.12593pt x 290.58563pt>
 File: sbox.png Graphic file (type png)
 <use sbox.png>
-Package pdftex.def Info: sbox.png  used on input line 172. on input line 172.
+Package pdftex.def Info: sbox.png  used on input line 185. on input line 185.
 Package pdftex.def Info: Requested size: 284.52756pt x 164.66891pt on input lin
-e 172.
+e 185.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 172. on input line 172.
+Package pdftex.def Info: tlo.pdf  used on input line 185. on input line 185.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 172.
+e 185.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1921,15 +1936,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <shiftrows.png, id=407, 379.4175pt x 111.41624pt>
 File: shiftrows.png Graphic file (type png)
 <use shiftrows.png>
-Package pdftex.def Info: shiftrows.png  used on input line 190. on input line 1
-90.
+Package pdftex.def Info: shiftrows.png  used on input line 203. on input line 2
+03.
 Package pdftex.def Info: Requested size: 227.62204pt x 66.84175pt on input line
- 190.
+ 203.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 190. on input line 190.
+Package pdftex.def Info: tlo.pdf  used on input line 203. on input line 203.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 190.
+e 203.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1940,9 +1955,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./shiftrows.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 211. on input line 211.
+Package pdftex.def Info: tlo.pdf  used on input line 224. on input line 224.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 211.
+e 224.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1954,15 +1969,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <mixcolumn.png, id=461, 498.36188pt x 262.73157pt>
 File: mixcolumn.png Graphic file (type png)
 <use mixcolumn.png>
-Package pdftex.def Info: mixcolumn.png  used on input line 224. on input line 2
-24.
+Package pdftex.def Info: mixcolumn.png  used on input line 237. on input line 2
+37.
 Package pdftex.def Info: Requested size: 284.52756pt x 150.00308pt on input lin
-e 224.
+e 237.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 224. on input line 224.
+Package pdftex.def Info: tlo.pdf  used on input line 237. on input line 237.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 224.
+e 237.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1973,9 +1988,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./mixcolumn.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 249. on input line 249.
+Package pdftex.def Info: tlo.pdf  used on input line 262. on input line 262.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 249.
+e 262.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1987,15 +2002,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <addroundkey.png, id=516, 517.18219pt x 127.97812pt>
 File: addroundkey.png Graphic file (type png)
 <use addroundkey.png>
-Package pdftex.def Info: addroundkey.png  used on input line 269. on input line
- 269.
+Package pdftex.def Info: addroundkey.png  used on input line 282. on input line
+ 282.
 Package pdftex.def Info: Requested size: 284.52756pt x 70.40965pt on input line
- 269.
+ 282.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 269. on input line 269.
+Package pdftex.def Info: tlo.pdf  used on input line 282. on input line 282.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 269.
+e 282.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2006,9 +2021,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./addroundkey.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 287. on input line 287.
+Package pdftex.def Info: tlo.pdf  used on input line 300. on input line 300.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 287.
+e 300.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2019,9 +2034,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 305. on input line 305.
+Package pdftex.def Info: tlo.pdf  used on input line 318. on input line 318.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 305.
+e 318.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2032,9 +2047,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 332. on input line 332.
+Package pdftex.def Info: tlo.pdf  used on input line 345. on input line 345.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 332.
+e 345.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2046,15 +2061,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch1.png, id=623, 554.82281pt x 196.48407pt>
 File: keysch1.png Graphic file (type png)
 <use keysch1.png>
-Package pdftex.def Info: keysch1.png  used on input line 351. on input line 351
+Package pdftex.def Info: keysch1.png  used on input line 364. on input line 364
 .
 Package pdftex.def Info: Requested size: 284.52756pt x 100.76318pt on input lin
-e 351.
+e 364.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 351. on input line 351.
+Package pdftex.def Info: tlo.pdf  used on input line 364. on input line 364.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 351.
+e 364.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2066,15 +2081,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch2.png, id=651, 562.35094pt x 226.59656pt>
 File: keysch2.png Graphic file (type png)
 <use keysch2.png>
-Package pdftex.def Info: keysch2.png  used on input line 371. on input line 371
+Package pdftex.def Info: keysch2.png  used on input line 384. on input line 384
 .
 Package pdftex.def Info: Requested size: 284.52756pt x 114.6499pt on input line
- 371.
+ 384.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 371. on input line 371.
+Package pdftex.def Info: tlo.pdf  used on input line 384. on input line 384.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 371.
+e 384.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2086,20 +2101,20 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysub.png, id=679, 643.6547pt x 252.945pt>
 File: keysub.png Graphic file (type png)
 <use keysub.png>
-Package pdftex.def Info: keysub.png  used on input line 388. on input line 388.
+Package pdftex.def Info: keysub.png  used on input line 401. on input line 401.
 
 Package pdftex.def Info: Requested size: 312.9803pt x 122.99852pt on input line
- 388.
+ 401.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 388--388
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 401--401
  [] 
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 388. on input line 388.
+Package pdftex.def Info: tlo.pdf  used on input line 401. on input line 401.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 388.
+e 401.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2111,15 +2126,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch3.png, id=707, 567.62062pt x 232.61906pt>
 File: keysch3.png Graphic file (type png)
 <use keysch3.png>
-Package pdftex.def Info: keysch3.png  used on input line 407. on input line 407
+Package pdftex.def Info: keysch3.png  used on input line 420. on input line 420
 .
 Package pdftex.def Info: Requested size: 284.52756pt x 116.60739pt on input lin
-e 407.
+e 420.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 407. on input line 407.
+Package pdftex.def Info: tlo.pdf  used on input line 420. on input line 420.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 407.
+e 420.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2131,15 +2146,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch7.png, id=735, 572.1375pt x 236.38312pt>
 File: keysch7.png Graphic file (type png)
 <use keysch7.png>
-Package pdftex.def Info: keysch7.png  used on input line 424. on input line 424
+Package pdftex.def Info: keysch7.png  used on input line 437. on input line 437
 .
 Package pdftex.def Info: Requested size: 256.0748pt x 105.79791pt on input line
- 424.
+ 437.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 424. on input line 424.
+Package pdftex.def Info: tlo.pdf  used on input line 437. on input line 437.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 424.
+e 437.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2151,20 +2166,20 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch8.png, id=762, 557.08125pt x 224.33812pt>
 File: keysch8.png Graphic file (type png)
 <use keysch8.png>
-Package pdftex.def Info: keysch8.png  used on input line 438. on input line 438
+Package pdftex.def Info: keysch8.png  used on input line 451. on input line 451
 .
 Package pdftex.def Info: Requested size: 312.9803pt x 126.03926pt on input line
- 438.
+ 451.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 438--438
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 451--451
  [] 
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 438. on input line 438.
+Package pdftex.def Info: tlo.pdf  used on input line 451. on input line 451.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 438.
+e 451.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2176,20 +2191,20 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch9.png, id=791, 559.33969pt x 218.31563pt>
 File: keysch9.png Graphic file (type png)
 <use keysch9.png>
-Package pdftex.def Info: keysch9.png  used on input line 452. on input line 452
+Package pdftex.def Info: keysch9.png  used on input line 465. on input line 465
 .
 Package pdftex.def Info: Requested size: 312.9803pt x 122.16263pt on input line
- 452.
+ 465.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 452--452
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 465--465
  [] 
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 452. on input line 452.
+Package pdftex.def Info: tlo.pdf  used on input line 465. on input line 465.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 452.
+e 465.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2200,24 +2215,24 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./keysch9.png>]
 File: encryption.png Graphic file (type png)
 <use encryption.png>
-Package pdftex.def Info: encryption.png  used on input line 466. on input line 
-466.
+Package pdftex.def Info: encryption.png  used on input line 479. on input line 
+479.
 Package pdftex.def Info: Requested size: 199.16928pt x 175.36136pt on input lin
-e 466.
+e 479.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:obrazek\0
 40encryption}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.466 \end{frame}
+l.479 \end{frame}
                  
-Overfull \vbox (3.73921pt too high) detected at line 466
+Overfull \vbox (3.73921pt too high) detected at line 479
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 466. on input line 466.
+Package pdftex.def Info: tlo.pdf  used on input line 479. on input line 479.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 466.
+e 479.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2228,9 +2243,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 485. on input line 485.
+Package pdftex.def Info: tlo.pdf  used on input line 498. on input line 498.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 485.
+e 498.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2241,9 +2256,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 501. on input line 501.
+Package pdftex.def Info: tlo.pdf  used on input line 514. on input line 514.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 501.
+e 514.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2254,9 +2269,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 524. on input line 524.
+Package pdftex.def Info: tlo.pdf  used on input line 537. on input line 537.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 524.
+e 537.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2267,9 +2282,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 535. on input line 535.
+Package pdftex.def Info: tlo.pdf  used on input line 548. on input line 548.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 535.
+e 548.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2280,9 +2295,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 551. on input line 551.
+Package pdftex.def Info: tlo.pdf  used on input line 564. on input line 564.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 551.
+e 564.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2293,9 +2308,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 566. on input line 566.
+Package pdftex.def Info: tlo.pdf  used on input line 579. on input line 579.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 566.
+e 579.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2306,9 +2321,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 594. on input line 594.
+Package pdftex.def Info: tlo.pdf  used on input line 607. on input line 607.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 594.
+e 607.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2319,9 +2334,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 604. on input line 604.
+Package pdftex.def Info: tlo.pdf  used on input line 617. on input line 617.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 604.
+e 617.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2332,9 +2347,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 624. on input line 624.
+Package pdftex.def Info: tlo.pdf  used on input line 637. on input line 637.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 624.
+e 637.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2345,9 +2360,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 635. on input line 635.
+Package pdftex.def Info: tlo.pdf  used on input line 648. on input line 648.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 635.
+e 648.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2365,11 +2380,11 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 \tf@snm=\write9
 \openout9 = `STiC_AES.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
  (STiC_AES.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 157.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
 Package rerunfilecheck Info: File `STiC_AES.out' has not changed.
 (rerunfilecheck)             Checksum: D21ADBEBC54D0500E80B0AB1077A2B88;740.
 
@@ -2381,10 +2396,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 35309 strings out of 493318
- 852254 string characters out of 3138997
- 1118694 words of memory out of 3000000
- 37906 multiletter control sequences out of 15000+200000
+ 35343 strings out of 493312
+ 853072 string characters out of 3138898
+ 1118877 words of memory out of 3000000
+ 37940 multiletter control sequences out of 15000+200000
  21741 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,19n,98p,777b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2402,7 +2417,7 @@ X 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plss9.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plssbx10.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/pl/plssi10.pfb>
-Output written on STiC_AES.pdf (37 pages, 818142 bytes).
+Output written on STiC_AES.pdf (37 pages, 819780 bytes).
 PDF statistics:
  1165 PDF objects out of 1200 (max. 8388607)
  99 named destinations out of 1000 (max. 500000)
