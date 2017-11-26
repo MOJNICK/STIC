@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  26 NOV 2017 22:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  26 NOV 2017 22:47
 entering extended mode
 **./STiC_AES.tex
 (STiC_AES.tex
@@ -1750,46 +1750,33 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
  <./tlo.pdf>]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 46.
-LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+(Font)              <6> on input line 34.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 46.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\wasysym\uwasy.fd"
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 46.
+line 34.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 46. on input line 46.
+Package pdftex.def Info: tlo.pdf  used on input line 34. on input line 34.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 46.
+e 34.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1800,9 +1787,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 59. on input line 59.
+Package pdftex.def Info: tlo.pdf  used on input line 47. on input line 47.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 59.
+e 47.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1813,9 +1800,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 87. on input line 87.
+Package pdftex.def Info: tlo.pdf  used on input line 75. on input line 75.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 87.
+e 75.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1824,22 +1811,22 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [5
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 107
-.
-LaTeX Font Info:    No file OMScmss.fd. on input line 107.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 95.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 95.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 107.
+(Font)              for symbol `textbullet' on input line 95.
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 107.
+(Font)              <5> on input line 95.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 107. on input line 107.
+Package pdftex.def Info: tlo.pdf  used on input line 95. on input line 95.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 107.
+e 95.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1849,13 +1836,13 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 ]
 LaTeX Font Info:    Font shape `OT4/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT4/cmss/m/sl' tried instead on input line 126.
+(Font)              Font shape `OT4/cmss/m/sl' tried instead on input line 114.
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 126. on input line 126.
+Package pdftex.def Info: tlo.pdf  used on input line 114. on input line 114.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 126.
+e 114.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1866,9 +1853,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 140. on input line 140.
+Package pdftex.def Info: tlo.pdf  used on input line 128. on input line 128.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 140.
+e 128.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1880,19 +1867,19 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <encryption.png, id=319, 516.42938pt x 454.69875pt>
 File: encryption.png Graphic file (type png)
 <use encryption.png>
-Package pdftex.def Info: encryption.png  used on input line 154. on input line 
-154.
+Package pdftex.def Info: encryption.png  used on input line 142. on input line 
+142.
 Package pdftex.def Info: Requested size: 199.16928pt x 175.36136pt on input lin
-e 154.
+e 142.
 
-Overfull \vbox (3.73921pt too high) detected at line 154
+Overfull \vbox (3.73921pt too high) detected at line 142
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 154. on input line 154.
+Package pdftex.def Info: tlo.pdf  used on input line 142. on input line 142.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 154.
+e 142.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1903,9 +1890,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./encryption.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 172. on input line 172.
+Package pdftex.def Info: tlo.pdf  used on input line 160. on input line 160.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 172.
+e 160.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1917,14 +1904,14 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <sbox.png, id=373, 502.12593pt x 290.58563pt>
 File: sbox.png Graphic file (type png)
 <use sbox.png>
-Package pdftex.def Info: sbox.png  used on input line 185. on input line 185.
+Package pdftex.def Info: sbox.png  used on input line 173. on input line 173.
 Package pdftex.def Info: Requested size: 284.52756pt x 164.66891pt on input lin
-e 185.
+e 173.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 185. on input line 185.
+Package pdftex.def Info: tlo.pdf  used on input line 173. on input line 173.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 185.
+e 173.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1936,15 +1923,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <shiftrows.png, id=407, 379.4175pt x 111.41624pt>
 File: shiftrows.png Graphic file (type png)
 <use shiftrows.png>
-Package pdftex.def Info: shiftrows.png  used on input line 203. on input line 2
-03.
+Package pdftex.def Info: shiftrows.png  used on input line 191. on input line 1
+91.
 Package pdftex.def Info: Requested size: 227.62204pt x 66.84175pt on input line
- 203.
+ 191.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 203. on input line 203.
+Package pdftex.def Info: tlo.pdf  used on input line 191. on input line 191.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 203.
+e 191.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1955,9 +1942,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./shiftrows.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 224. on input line 224.
+Package pdftex.def Info: tlo.pdf  used on input line 212. on input line 212.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 224.
+e 212.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1969,15 +1956,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <mixcolumn.png, id=461, 498.36188pt x 262.73157pt>
 File: mixcolumn.png Graphic file (type png)
 <use mixcolumn.png>
-Package pdftex.def Info: mixcolumn.png  used on input line 237. on input line 2
-37.
+Package pdftex.def Info: mixcolumn.png  used on input line 225. on input line 2
+25.
 Package pdftex.def Info: Requested size: 284.52756pt x 150.00308pt on input lin
-e 237.
+e 225.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 237. on input line 237.
+Package pdftex.def Info: tlo.pdf  used on input line 225. on input line 225.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 237.
+e 225.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1988,9 +1975,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./mixcolumn.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 262. on input line 262.
+Package pdftex.def Info: tlo.pdf  used on input line 250. on input line 250.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 262.
+e 250.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2002,15 +1989,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <addroundkey.png, id=516, 517.18219pt x 127.97812pt>
 File: addroundkey.png Graphic file (type png)
 <use addroundkey.png>
-Package pdftex.def Info: addroundkey.png  used on input line 282. on input line
- 282.
+Package pdftex.def Info: addroundkey.png  used on input line 270. on input line
+ 270.
 Package pdftex.def Info: Requested size: 284.52756pt x 70.40965pt on input line
- 282.
+ 270.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 282. on input line 282.
+Package pdftex.def Info: tlo.pdf  used on input line 270. on input line 270.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 282.
+e 270.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2021,9 +2008,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./addroundkey.png>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 300. on input line 300.
+Package pdftex.def Info: tlo.pdf  used on input line 288. on input line 288.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 300.
+e 288.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2034,9 +2021,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 318. on input line 318.
+Package pdftex.def Info: tlo.pdf  used on input line 306. on input line 306.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 318.
+e 306.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2047,9 +2034,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 345. on input line 345.
+Package pdftex.def Info: tlo.pdf  used on input line 333. on input line 333.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 345.
+e 333.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2061,15 +2048,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch1.png, id=623, 554.82281pt x 196.48407pt>
 File: keysch1.png Graphic file (type png)
 <use keysch1.png>
-Package pdftex.def Info: keysch1.png  used on input line 364. on input line 364
+Package pdftex.def Info: keysch1.png  used on input line 352. on input line 352
 .
 Package pdftex.def Info: Requested size: 284.52756pt x 100.76318pt on input lin
-e 364.
+e 352.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 364. on input line 364.
+Package pdftex.def Info: tlo.pdf  used on input line 352. on input line 352.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 364.
+e 352.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2081,15 +2068,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch2.png, id=651, 562.35094pt x 226.59656pt>
 File: keysch2.png Graphic file (type png)
 <use keysch2.png>
-Package pdftex.def Info: keysch2.png  used on input line 384. on input line 384
+Package pdftex.def Info: keysch2.png  used on input line 372. on input line 372
 .
 Package pdftex.def Info: Requested size: 284.52756pt x 114.6499pt on input line
- 384.
+ 372.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 384. on input line 384.
+Package pdftex.def Info: tlo.pdf  used on input line 372. on input line 372.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 384.
+e 372.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2101,20 +2088,20 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysub.png, id=679, 643.6547pt x 252.945pt>
 File: keysub.png Graphic file (type png)
 <use keysub.png>
-Package pdftex.def Info: keysub.png  used on input line 401. on input line 401.
+Package pdftex.def Info: keysub.png  used on input line 389. on input line 389.
 
 Package pdftex.def Info: Requested size: 312.9803pt x 122.99852pt on input line
- 401.
+ 389.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 401--401
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 389--389
  [] 
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 401. on input line 401.
+Package pdftex.def Info: tlo.pdf  used on input line 389. on input line 389.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 401.
+e 389.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2126,15 +2113,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch3.png, id=707, 567.62062pt x 232.61906pt>
 File: keysch3.png Graphic file (type png)
 <use keysch3.png>
-Package pdftex.def Info: keysch3.png  used on input line 420. on input line 420
+Package pdftex.def Info: keysch3.png  used on input line 408. on input line 408
 .
 Package pdftex.def Info: Requested size: 284.52756pt x 116.60739pt on input lin
-e 420.
+e 408.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 420. on input line 420.
+Package pdftex.def Info: tlo.pdf  used on input line 408. on input line 408.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 420.
+e 408.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2146,15 +2133,15 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch7.png, id=735, 572.1375pt x 236.38312pt>
 File: keysch7.png Graphic file (type png)
 <use keysch7.png>
-Package pdftex.def Info: keysch7.png  used on input line 437. on input line 437
+Package pdftex.def Info: keysch7.png  used on input line 425. on input line 425
 .
 Package pdftex.def Info: Requested size: 256.0748pt x 105.79791pt on input line
- 437.
+ 425.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 437. on input line 437.
+Package pdftex.def Info: tlo.pdf  used on input line 425. on input line 425.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 437.
+e 425.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2166,20 +2153,20 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch8.png, id=762, 557.08125pt x 224.33812pt>
 File: keysch8.png Graphic file (type png)
 <use keysch8.png>
-Package pdftex.def Info: keysch8.png  used on input line 451. on input line 451
+Package pdftex.def Info: keysch8.png  used on input line 439. on input line 439
 .
 Package pdftex.def Info: Requested size: 312.9803pt x 126.03926pt on input line
- 451.
+ 439.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 451--451
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 439--439
  [] 
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 451. on input line 451.
+Package pdftex.def Info: tlo.pdf  used on input line 439. on input line 439.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 451.
+e 439.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2191,20 +2178,20 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 <keysch9.png, id=791, 559.33969pt x 218.31563pt>
 File: keysch9.png Graphic file (type png)
 <use keysch9.png>
-Package pdftex.def Info: keysch9.png  used on input line 465. on input line 465
+Package pdftex.def Info: keysch9.png  used on input line 453. on input line 453
 .
 Package pdftex.def Info: Requested size: 312.9803pt x 122.16263pt on input line
- 465.
+ 453.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 465--465
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 453--453
  [] 
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 465. on input line 465.
+Package pdftex.def Info: tlo.pdf  used on input line 453. on input line 453.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 465.
+e 453.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2215,24 +2202,24 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./keysch9.png>]
 File: encryption.png Graphic file (type png)
 <use encryption.png>
-Package pdftex.def Info: encryption.png  used on input line 479. on input line 
-479.
+Package pdftex.def Info: encryption.png  used on input line 467. on input line 
+467.
 Package pdftex.def Info: Requested size: 199.16928pt x 175.36136pt on input lin
-e 479.
+e 467.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:obrazek\0
 40encryption}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.479 \end{frame}
+l.467 \end{frame}
                  
-Overfull \vbox (3.73921pt too high) detected at line 479
+Overfull \vbox (3.73921pt too high) detected at line 467
  []
 
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 479. on input line 479.
+Package pdftex.def Info: tlo.pdf  used on input line 467. on input line 467.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 479.
+e 467.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2243,9 +2230,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 498. on input line 498.
+Package pdftex.def Info: tlo.pdf  used on input line 486. on input line 486.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 498.
+e 486.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2256,9 +2243,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 514. on input line 514.
+Package pdftex.def Info: tlo.pdf  used on input line 502. on input line 502.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 514.
+e 502.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2269,9 +2256,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 537. on input line 537.
+Package pdftex.def Info: tlo.pdf  used on input line 525. on input line 525.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 537.
+e 525.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2282,9 +2269,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 548. on input line 548.
+Package pdftex.def Info: tlo.pdf  used on input line 536. on input line 536.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 548.
+e 536.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2295,9 +2282,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 564. on input line 564.
+Package pdftex.def Info: tlo.pdf  used on input line 552. on input line 552.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 564.
+e 552.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2308,9 +2295,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 579. on input line 579.
+Package pdftex.def Info: tlo.pdf  used on input line 567. on input line 567.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 579.
+e 567.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2321,9 +2308,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 607. on input line 607.
+Package pdftex.def Info: tlo.pdf  used on input line 595. on input line 595.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 607.
+e 595.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2334,9 +2321,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 617. on input line 617.
+Package pdftex.def Info: tlo.pdf  used on input line 605. on input line 605.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 617.
+e 605.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2347,9 +2334,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 637. on input line 637.
+Package pdftex.def Info: tlo.pdf  used on input line 625. on input line 625.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 637.
+e 625.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2360,9 +2347,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 648. on input line 648.
+Package pdftex.def Info: tlo.pdf  used on input line 636. on input line 636.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 648.
+e 636.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -2417,7 +2404,7 @@ X 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plss9.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plssbx10.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/pl/plssi10.pfb>
-Output written on STiC_AES.pdf (37 pages, 819780 bytes).
+Output written on STiC_AES.pdf (37 pages, 819510 bytes).
 PDF statistics:
  1165 PDF objects out of 1200 (max. 8388607)
  99 named destinations out of 1000 (max. 500000)
