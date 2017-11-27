@@ -9,9 +9,11 @@
 	\item[1.]{Bra-ket notation}
 	\item[2.]{Quantum gates}
 	\item[3.]{Grover's Database Search}
-	\item[4.]{Quantum Fourier Transform}
-	\item[5.]{Shore's factorization algorithm}
-	\item[6.]{Exponentiation by squaring}
+	\item[4.]{Shore's factorization algorithm}
+	\begin{description}
+	\hspace{-2.0cm}{• Fast modular exponentiation}\\
+	\hspace{-2.0cm}{• Quantum Fourier Transform}\\
+	\end{description}
 	\end{description}
 	}
 \end{frame}
@@ -51,27 +53,14 @@
 \subsection{Requirements for AES} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
-	\frametitle{Advanced Encryption Standard}
-		\framesubtitle{Requirements for AES}
-		In the selection process, NIST asked for: \\
-		{\footnotesize 
-		\hspace{0.5cm}{- A block cipher, block length: 128 bit}\\
-		\hspace{0.5cm}{- Key length: 128, 192 and 256 bit}\\
-		\hspace{0.5cm}{- Suitability for hardware and software}\\
+	\frametitle{Fast database search}
+		\framesubtitle{}
+
+		{\normalsize
+		\hspace{0.5cm}{Grover's database search uses possibility to pararell process of qbit. The algorithm allows us to find selected element in unsorted set. Complexity $\sqrt{n}$}\\
 		}
-		\vspace{0.2cm}
-		{\normalsize NIST selection of the winning algorithm based on:}\\
-		{\footnotesize
-		\hspace{0.5cm}{- Security}\\
-		\hspace{0.5cm}{- Efficient implementation \textbf{both} in hardware and software}\\
-		\hspace{0.5cm}{- Code length and memory utilization}\\
-		}
-		\vspace{0.2cm}
-		{\normalsize NIST platform used to test candidate cipher algorithms:}\\
-		{\footnotesize
-		\hspace{0.5cm}{- PC IBM-compatible,Pentium Pro 200 MHz, 64 MB RAM, WINDOWS 95}\\
-		\hspace{0.5cm}{- Borland C++ 5.0 compiler and Java Development Kit (JDK) 1.1}\\
-		}
+		
+
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -80,18 +69,12 @@
 \begin{frame}
 	\frametitle{Advanced Encryption Standard}
 		\framesubtitle{Overwiev of AES}
-	{\normalsize 	
-	\hspace{0.5cm}{• AES is \textbf{not} Feistel Network}\\
-	\hspace{0.5cm}{• AES is a type of substitution-permutation network}\\
-    \hspace{0.5cm}{• AES has 128 bits block size}\\
-    \hspace{0.5cm}{• AES has three allowable key sizes $K$: 128,192,256 bit }\\
-    \hspace{0.5cm}{• AES has variable number of rounds:}\\
-	}
-	{\footnotesize
-	\hspace{1.0cm}{- If $K$= 128, then $N_r$= 10}\\
-	\hspace{1.0cm}{- If $K$= 192, then $N_r$= 12}\\
-	\hspace{1.0cm}{- If $K$= 256, then $N_r$= 14}\\
-	}
+	\vspace{0.5cm}
+		\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{grdiffusion}
+		\label{fig:grdiffusion grdiffusion}
+	\end{figure}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
