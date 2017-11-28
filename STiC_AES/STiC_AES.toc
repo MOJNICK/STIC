@@ -1,8 +1,8 @@
 \beamer@sectionintoc {1}{Advanced Encryption Standard}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Agenda}{2}{0}{1}
 \beamer@subsectionintoc {1}{2}{AES Origins}{3}{0}{1}
-\beamer@subsectionintoc {1}{3}{Requirements for AES}{5}{0}{1}
-\beamer@subsectionintoc {1}{4}{AES overwiev}{6}{0}{1}
-\beamer@subsectionintoc {1}{5}{Time for questions}{10}{0}{1}
-\beamer@subsectionintoc {1}{6}{Bibliography}{11}{0}{1}
-\beamer@subsectionintoc {1}{7}{End}{12}{0}{1}
+\beamer@subsectionintoc {1}{3}{Grover}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{AES overwiev}{8}{0}{1}
+\beamer@subsectionintoc {1}{5}{Time for questions}{12}{0}{1}
+\beamer@subsectionintoc {1}{6}{Bibliography}{13}{0}{1}
+\beamer@subsectionintoc {1}{7}{End}{14}{0}{1}

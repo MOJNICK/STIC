@@ -32,6 +32,23 @@
 	\hspace{0.0cm}{The left part: $\bra{x}$, called the bra, is a row vector.}\\
 	\hspace{0.0cm}{The right part: $\ket{y}$, called the ket, is a column vector.}\\
 	\hspace{0.5cm}{}\\
+
+	}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\begin{frame}
+	\frametitle{Qbit}
+		\framesubtitle{Origins}
+		\vspace{-1cm}
+	{\normalsize
+	A pure qubit state is a linear superposition of the basis states. This means that the qubit can be represented as a linear\\ combination of $|0\rangle$ and +$|1\rangle $:\\ 
+    $|\psi \rangle =\alpha |0\rangle +\beta |1\rangle$\\
+  
+    When we measure this qubit in the standard basis, the probability of outcome $|0\rangle$  is $|\alpha |^{2}$ and the probability of outcome $1\rangle$  is $|\beta |^{2}$. Because the absolute squares of the amplitudes equate to probabilities, it follows that
+     $\alpha$ and $\beta$ must be constrained by the equation
+$$|\alpha |^{2}+|\beta |^{2}=1$$\\
 	}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -50,25 +67,41 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\subsection{Requirements for AES} 
+\subsection{Grover} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
-	\frametitle{Fast database search}
+	\frametitle{Grover's database search}
 		\framesubtitle{}
 
 		{\normalsize
-		\hspace{0.5cm}{Grover's database search uses possibility to pararell process of qbit. The algorithm allows us to find selected element in unsorted set. Complexity $\sqrt{n}$}\\
+		\hspace{0.5cm}{Grover's database search uses possibility to pararell process of qbit. The algorithm allows us to find selected element in unsorted set with complexity $\sqrt{n}$}\\
 		}
 		
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Fast exponentiation}
+		\framesubtitle{}
+
+		{\normalsize
+		\hspace{0.5cm}{We can calculate $A^{B} mod C$ quickly, using modular multiplication rules:
+$$A ^{2} mod C = (A * A) mod C = ((A mod C) * (A mod C)) mod C$$}\\
+		}
+		
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 \subsection{AES overwiev} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
-	\frametitle{Advanced Encryption Standard}
-		\framesubtitle{Overwiev of AES}
+	\frametitle{Grover's database search}
+		\framesubtitle{}
 	\vspace{0.5cm}
 		\begin{figure}
 		\centering
