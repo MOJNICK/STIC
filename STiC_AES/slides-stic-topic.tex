@@ -24,7 +24,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \begin{frame}
 	\frametitle{Bra-ket notation}
-		\framesubtitle{Origins}
+		\framesubtitle{Definition}
 		\vspace{-1cm}
 	{\normalsize
 	\hspace{0.5cm}{Bra–ket notation: $\braket{x|y}$ is a standard notation for describing quantum states. It can also be used to denote abstract vectors, linear functionals and scalar product in mathematics.}\\
@@ -40,7 +40,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \begin{frame}
 	\frametitle{Qbit}
-		\framesubtitle{Origins}
+		\framesubtitle{Definition}
 		\vspace{-1cm}
 	{\normalsize
 	A pure qubit state is a linear superposition of the basis states. This means that the qubit can be represented as a linear\\ combination of $|0\rangle$ and +$|1\rangle $:\\ 
@@ -56,7 +56,7 @@ $$|\alpha |^{2}+|\beta |^{2}=1$$\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \begin{frame}
 	\frametitle{Gates}
-		\framesubtitle{Origins}
+		\framesubtitle{Definition}
 		\vspace{-1cm}
 	{\normalsize
 	\hspace{0.5cm}{In quantum computing and specifically the quantum circuit model of computation, a quantum gate (or quantum logic gate) is a basic quantum circuit operating on a small number of qubits.}\\
@@ -66,6 +66,20 @@ $$|\alpha |^{2}+|\beta |^{2}=1$$\\
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Gates}
+		\framesubtitle{Example}
+	\vspace{0.5cm}
+		\begin{figure}
+		\centering
+			\includegraphics[scale=1.3]{gates}
+			\label{fig:gates gates}
+		\end{figure}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \subsection{Grover} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -74,12 +88,25 @@ $$|\alpha |^{2}+|\beta |^{2}=1$$\\
 		\framesubtitle{}
 
 		{\normalsize
-		\hspace{0.5cm}{Grover's database search uses possibility to pararell process of qbit. The algorithm allows us to find selected element in unsorted set with complexity $\sqrt{n}$}\\
+		\hspace{0.5cm}{Grover's database search uses ability of quantum computing to pararell process of qubits. The algorithm allows us to find selected element in unsorted set with complexity $\sqrt{n}$}\\
 		}
 		
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Grover's database search}
+		\framesubtitle{Scheme}
+	\vspace{0.5cm}
+		\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{grdiffusion}
+		\label{fig:grdiffusion grdiffusion}
+	\end{figure}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
@@ -95,21 +122,6 @@ $$A ^{2} mod C = (A * A) mod C = ((A mod C) * (A mod C)) mod C$$}\\
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-
-\subsection{AES overwiev} 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}
-	\frametitle{Grover's database search}
-		\framesubtitle{}
-	\vspace{0.5cm}
-		\begin{figure}
-		\centering
-		\includegraphics[width=10cm]{grdiffusion}
-		\label{fig:grdiffusion grdiffusion}
-	\end{figure}
-\end{frame}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
 	\frametitle{Advanced Encryption Standard}

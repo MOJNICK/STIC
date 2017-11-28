@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  28 NOV 2017 09:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  28 NOV 2017 21:24
 entering extended mode
 **./STiC_AES.tex
 (STiC_AES.tex
@@ -1717,7 +1717,7 @@ Overfull \hbox (7.33337pt too wide) detected at line 142
  []  
  []
 
-<tlom.pdf, id=76, pagebox=cropbox, 1606.0pt x 1204.5pt>
+<tlom.pdf, id=72, pagebox=cropbox, 1606.0pt x 1204.5pt>
 File: tlom.pdf Graphic file (type pdf)
 <use tlom.pdf>
 Package pdftex.def Info: tlom.pdf  used on input line 146. on input line 146.
@@ -1741,7 +1741,7 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 19.
 
-<tlo.pdf, id=110, pagebox=cropbox, 1606.0pt x 1204.5pt>
+<tlo.pdf, id=106, pagebox=cropbox, 1606.0pt x 1204.5pt>
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
 Package pdftex.def Info: tlo.pdf  used on input line 19. on input line 19.
@@ -1817,11 +1817,17 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [5
 
 ]
+<gates.png, id=220, 148.00896pt x 101.178pt>
+File: gates.png Graphic file (type png)
+<use gates.png>
+Package pdftex.def Info: gates.png  used on input line 80. on input line 80.
+Package pdftex.def Info: Requested size: 192.41159pt x 131.53136pt on input lin
+e 80.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 81. on input line 81.
+Package pdftex.def Info: tlo.pdf  used on input line 80. on input line 80.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 81.
+e 80.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1829,12 +1835,12 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 [6
 
-]
+ <./gates.png (PNG copy)>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 96. on input line 96.
+Package pdftex.def Info: tlo.pdf  used on input line 95. on input line 95.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 96.
+e 95.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1843,18 +1849,18 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [7
 
 ]
-<grdiffusion.png, id=275, 1305.37688pt x 342.5297pt>
+<grdiffusion.png, id=274, 1305.37688pt x 342.5297pt>
 File: grdiffusion.png Graphic file (type png)
 <use grdiffusion.png>
-Package pdftex.def Info: grdiffusion.png  used on input line 112. on input line
- 112.
+Package pdftex.def Info: grdiffusion.png  used on input line 108. on input line
+ 108.
 Package pdftex.def Info: Requested size: 284.52756pt x 74.6564pt on input line 
-112.
+108.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 112. on input line 112.
+Package pdftex.def Info: tlo.pdf  used on input line 108. on input line 108.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 112.
+e 108.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1863,14 +1869,11 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [8
 
  <./grdiffusion.png>]
-LaTeX Font Info:    Font shape `OT4/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT4/cmss/m/sl' tried instead on input line 132.
-
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 132. on input line 132.
+Package pdftex.def Info: tlo.pdf  used on input line 122. on input line 122.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 132.
+e 122.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1879,11 +1882,14 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [9
 
 ]
+LaTeX Font Info:    Font shape `OT4/cmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT4/cmss/m/sl' tried instead on input line 143.
+
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 155. on input line 155.
+Package pdftex.def Info: tlo.pdf  used on input line 143. on input line 143.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 155.
+e 143.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1894,9 +1900,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 182. on input line 182.
+Package pdftex.def Info: tlo.pdf  used on input line 166. on input line 166.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 182.
+e 166.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1907,9 +1913,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 194. on input line 194.
+Package pdftex.def Info: tlo.pdf  used on input line 193. on input line 193.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 194.
+e 193.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1920,9 +1926,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 214. on input line 214.
+Package pdftex.def Info: tlo.pdf  used on input line 205. on input line 205.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 214.
+e 205.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1943,6 +1949,19 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 [14
 
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 236. on input line 236.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 236.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[15
+
 ])
 \tf@nav=\write7
 \openout7 = `STiC_AES.nav'.
@@ -1959,17 +1978,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
 Package rerunfilecheck Info: File `STiC_AES.out' has not changed.
-(rerunfilecheck)             Checksum: 06AAFF95DA0DD71EB43402882308988C;485.
+(rerunfilecheck)             Checksum: 20420BE8477933D29A4BB6CE38C8CCFE;423.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 35107 strings out of 493312
- 849926 string characters out of 3138898
+ 35114 strings out of 493312
+ 850014 string characters out of 3138898
  1118877 words of memory out of 3000000
- 37785 multiletter control sequences out of 15000+200000
+ 37789 multiletter control sequences out of 15000+200000
  16310 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,19n,98p,777b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1983,9 +2002,9 @@ fonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 rogram Files/MiKTeX 2.9/fonts/type1/public/pl/plss8.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/pl/plssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/pl/plssi10.pfb>
-Output written on STiC_AES.pdf (14 pages, 300304 bytes).
+Output written on STiC_AES.pdf (15 pages, 344431 bytes).
 PDF statistics:
- 506 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 276 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 529 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
