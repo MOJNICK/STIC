@@ -1,0 +1,38 @@
+Bra ket:
+dodac reprezentacje iloczynu skalarnego,
+indukcja normy przez iloczyn,
+
+qbit state/ base vector, measurement probability / bloch sphere / superpozycja
+
+Photon as example
+
+ 
+
+No cloning theorem:
+na konsultacje
+
+Gates:
+CNOT
+Controled rotation gate.
+Hadamard gate
+system zupelny
+//NOT
+//Square root of NOT gate (vNOT)
+
+reprezantacja macierzowa, przyklad z H gate, cos o przeksztalceniach unitarnych, dlaczego moga byc stosowane na ukladach kwantowych, zachowanie iloczynu skalarnego, odwracalnosc
+
+Uncomputing… jakis przyklad
+outer product 
+
+Grover search:
+Grover diffusion operator. 2 |s><s| - I
+Inversion about the mean – jak to sie realizuje, prawdopodobienstwo 1 dla 2 qitów?, zlozonosc O(1) ??
+Liczba iteracji > sqrt(N) nie zwieksza precyzji, lecz zmniejsza.
+
+Shor:
+Grupa z wzglednie pierwszych z N z mod(N), rzad grupy, przyklad z dowodem 'na machanie rekami'
+
+Fast exponentation – strategia dziel i zwyciezaj, przyklad na parzystych, rozszerzenie na nieparzyste
+
+qft: continued fraction , dlaczego nie maksymalna wartosc?, czy dziel i zwyciezaj jest realizowalne	
+

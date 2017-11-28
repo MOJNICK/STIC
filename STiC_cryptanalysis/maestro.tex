@@ -1,0 +1,113 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Advanced Encryption Standard}
+		\framesubtitle{3.MixColumns}
+		\vfill
+	
+	\begin{block}{}
+    	{Each column is represented as four-bytes vector.}\\
+    \end{block}
+    \begin{block}{}
+		{Each column of State is replaced by a new column which is formed by multiplying that column by a certain 			matrix of elements of the field.}\\	
+	\end{block}	
+	    \begin{block}{}
+		{Together with ShiftRows, MixColumns provides \textit{diffusion} in the cipher.}\\	
+	\end{block}
+		\begin{alertblock}{}
+		{MixColumns step is used in every cycle \textbf{except} the last one cycle.}\\
+		\end{alertblock}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Advanced Encryption Standard}
+		\framesubtitle{3.MixColumns }
+		
+	\begin{block}{}
+    	{It is also possible to see this operation as polynomial multiplication where each column is represented with 				 	polynomial a(x):}\\
+		\hspace{0.5cm}{$a(x) = c(x).a(x) mod x^{4}+1= ({03}x^3 + {01}x^2 + {01}x + {02})
+.(a_3x^3 + a_2x^2 + a_1x^1 + a_0) mod x^4 + 1 $}\\
+		
+	\end{block}
+	\vfill
+	\begin{block}{}
+	{ $$c(x)= \left[
+        \begin{array}{cccc}
+         02 & 03\\
+         01 & 02
+         \end{array}
+      \right] $$}
+	\end{block}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Advanced Encryption Standard}
+		\framesubtitle{Key Schedule: Rcon Table}
+		\begin{table}
+			\begin{center}
+				\setlength\arrayrulewidth{1pt}
+				
+				\begin{tabular}{|c|c|c|c|}
+					\hline 
+					\multicolumn{4}{|c|}{Rcon Constants}\\
+					\hline
+					\hline Round 	& Constant(Rcon)		 &Round  		& Constant(Rcon)		\\
+					\hline $1$	 	& $01$ $00$ $00$ $00$    &$6$			&$20$ $00$ $00$ $00$  	\\
+					\hline $2$	 	& $02$ $00$ $00$ $00$    &$7$			&$40$ $00$ $00$ $00$  	\\
+					\hline $3$	 	& $04$ $00$ $00$ $00$    &$8$			&$80$ $00$ $00$ $00$  	\\
+					\hline $4$	 	& $08$ $00$ $00$ $00$    &$9$			&1B $00$ $00$ $00$  	\\
+					\hline $5$	 	& $10$ $00$ $00$ $00$    &$10$			&$36$ $00$ $00$ $00$  	\\
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{table}
+
+		\vfill
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+
+\subsection{Time for questions}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	
+	\begin{center}
+		\Huge \textbf{Time for questions}
+	\end{center}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Bibliography}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	\frametitle{Advanced Encryption Standard}
+		\framesubtitle{Bibliography}
+	{\normalsize 
+	
+	Bibliography:\\	
+	\vspace{0,2cm}
+{- Joan Daemen, Vincent Rijmen, "The Design of Rijndael: AES – The Advanced Encryption Standard", Springer, 2002.}\\
+\vspace{0,2cm}
+{- Joshua Holden, "The Mathematics of Cryptography", Princeton University Press, 2017}\\
+\vspace{0,2cm}
+{- Federal Information Processing Standards Publication 197 : the official AES standard, United States National Institute of Standards and Technology, 2001}\\
+\vspace{0,2cm}
+{- Wikipedia, Advanced Encryption Standard, https://en.wikipedia.org/wiki/Advanced$\_$Encryption$\_$Standard}\\
+
+	}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{End}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+	
+	\begin{center}
+		\Huge \textbf{Thank you for attention!}
+	\end{center}
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
