@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 05:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 06:22
 entering extended mode
 **./cryptanalysis.tex
 (cryptanalysis.tex
@@ -1690,11 +1690,23 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [14
 
 ]
+<./figures/qftsimple.jpg, id=416, 825.0825pt x 369.38pt>
+File: ./figures/qftsimple.jpg Graphic file (type jpg)
+<use ./figures/qftsimple.jpg>
+Package pdftex.def Info: ./figures/qftsimple.jpg  used on input line 58. on inp
+ut line 58.
+Package pdftex.def Info: Requested size: 330.02715pt x 147.74937pt on input lin
+e 58.
+
+Overfull \hbox (22.73727pt too wide) in paragraph at lines 58--58
+ [] 
+ []
+
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 56. on input line 56.
+Package pdftex.def Info: tlo.pdf  used on input line 58. on input line 58.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 56.
+e 58.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1702,7 +1714,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 [15
 
-]) (real_system.tex
+ <./figures/qftsimple.jpg>]) (real_system.tex
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
 Package pdftex.def Info: tlo.pdf  used on input line 11. on input line 11.
@@ -1728,6 +1740,32 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 [17
 
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 37. on input line 37.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 37.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[18
+
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 51. on input line 51.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 51.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[19
+
 ])
 \tf@nav=\write7
 \openout7 = `cryptanalysis.nav'.
@@ -1751,10 +1789,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22819 strings out of 493312
- 453937 string characters out of 3138898
- 517523 words of memory out of 3000000
- 25718 multiletter control sequences out of 15000+200000
+ 22835 strings out of 493312
+ 454162 string characters out of 3138898
+ 517554 words of memory out of 3000000
+ 25727 multiletter control sequences out of 15000+200000
  15595 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,65p,782b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1770,9 +1808,9 @@ C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/pls
 sbx10.pfb>
-Output written on cryptanalysis.pdf (17 pages, 389554 bytes).
+Output written on cryptanalysis.pdf (19 pages, 438422 bytes).
 PDF statistics:
- 540 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 594 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
