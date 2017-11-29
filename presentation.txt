@@ -29,14 +29,18 @@ Grover search:
 przyklad, jak to dziala
 
 Grover diffusion operator. 2 |s><s| - I
-Uw operator, simple proof
+Uw operator, simple proof:
 https://en.wikipedia.org/wiki/Grover%27s_algorithm#Description_of_U.CF.89
 
-Inversion about the mean – jak to sie realizuje, prawdopodobienstwo 1 dla 2 qitów?, zlozonosc O(1) ??
+fig 2.15
+Inversion about the mean – quantum computing devices Goong - p. 68 fig 2.16 prawdopodobienstwo 1 dla 2 qitów?, zlozonosc O(1) ??
 Liczba iteracji > sqrt(N) nie zwieksza precyzji, lecz zmniejsza.
 
+moze algorytm euklidesa gcd(a-b,a)
+Grupa z wzglednie pierwszych z N z mod(N), rzad grupy, dowod - closed group
+
 Shor:
-Grupa z wzglednie pierwszych z N z mod(N), rzad grupy, przyklad z dowodem 'na machanie rekami'
+
 
 Fast exponentation – strategia dziel i zwyciezaj, przyklad na parzystych, rozszerzenie na nieparzyste
 
