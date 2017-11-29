@@ -1,4 +1,5 @@
 Bra ket:
+outer product 
 dodac reprezentacje iloczynu skalarnego,
 indukcja normy przez iloczyn,
 
@@ -19,13 +20,18 @@ system zupelny
 //NOT
 //Square root of NOT gate (vNOT)
 
-reprezantacja macierzowa, przyklad z H gate, cos o przeksztalceniach unitarnych, dlaczego moga byc stosowane na ukladach kwantowych, zachowanie iloczynu skalarnego, odwracalnosc
+reprezantacja macierzowa, przyklad z H gate. przeksztalcenia unitarne co to, dlaczego moga byc stosowane na ukladach kwantowych, zachowanie iloczynu skalarnego, odwracalnosc
 
 Uncomputing… jakis przyklad
-outer product 
+
 
 Grover search:
+przyklad, jak to dziala
+
 Grover diffusion operator. 2 |s><s| - I
+Uw operator, simple proof
+https://en.wikipedia.org/wiki/Grover%27s_algorithm#Description_of_U.CF.89
+
 Inversion about the mean – jak to sie realizuje, prawdopodobienstwo 1 dla 2 qitów?, zlozonosc O(1) ??
 Liczba iteracji > sqrt(N) nie zwieksza precyzji, lecz zmniejsza.
 

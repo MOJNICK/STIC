@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 00:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 01:19
 entering extended mode
 **./cryptanalysis.tex
 (cryptanalysis.tex
@@ -1552,7 +1552,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [5
 
 ]
-<./figures/gates.png, id=176, 148.00896pt x 101.178pt>
+<./figures/gates.png, id=177, 148.00896pt x 101.178pt>
 File: ./figures/gates.png Graphic file (type png)
 <use ./figures/gates.png>
 Package pdftex.def Info: ./figures/gates.png  used on input line 81. on input l
@@ -1574,9 +1574,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./figures/gates.png (PNG copy)>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 96. on input line 96.
+Package pdftex.def Info: tlo.pdf  used on input line 97. on input line 97.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 96.
+e 97.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1585,24 +1585,37 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [7
 
 ]
-<./figures/grdiffusion.png, id=228, 1305.37688pt x 342.5297pt>
-File: ./figures/grdiffusion.png Graphic file (type png)
-<use ./figures/grdiffusion.png>
-Package pdftex.def Info: ./figures/grdiffusion.png  used on input line 109. on 
-input line 109.
-Package pdftex.def Info: Requested size: 284.52756pt x 74.6564pt on input line 
-109.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 109. on input line 109.
+Package pdftex.def Info: tlo.pdf  used on input line 111. on input line 111.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 109.
+e 111.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
 [8
+
+]
+<./figures/grdiffusion.png, id=253, 1305.37688pt x 342.5297pt>
+File: ./figures/grdiffusion.png Graphic file (type png)
+<use ./figures/grdiffusion.png>
+Package pdftex.def Info: ./figures/grdiffusion.png  used on input line 124. on 
+input line 124.
+Package pdftex.def Info: Requested size: 284.52756pt x 74.6564pt on input line 
+124.
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 124. on input line 124.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 124.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[9
 
  <./figures/grdiffusion.png>]) (groups.tex
 File: tlo.pdf Graphic file (type pdf)
@@ -1615,7 +1628,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[9
+[10
 
 ]
 File: tlo.pdf Graphic file (type pdf)
@@ -1628,7 +1641,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[10
+[11
 
 ]) (shor.tex
 File: tlo.pdf Graphic file (type pdf)
@@ -1641,10 +1654,10 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[11
+[12
 
 ]
-<./figures/shor.png, id=333, 1190.94937pt x 434.37282pt>
+<./figures/shor.png, id=358, 1190.94937pt x 434.37282pt>
 File: ./figures/shor.png Graphic file (type png)
 <use ./figures/shor.png>
 Package pdftex.def Info: ./figures/shor.png  used on input line 25. on input li
@@ -1661,7 +1674,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[12
+[13
 
  <./figures/shor.png>]
 File: tlo.pdf Graphic file (type pdf)
@@ -1674,7 +1687,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[13
+[14
 
 ]
 File: tlo.pdf Graphic file (type pdf)
@@ -1687,7 +1700,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[14
+[15
 
 ]) (real_system.tex
 File: tlo.pdf Graphic file (type pdf)
@@ -1700,7 +1713,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[15
+[16
 
 ])
 \tf@nav=\write7
@@ -1718,17 +1731,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `cryptanalysis.out' has not changed.
-(rerunfilecheck)             Checksum: 4416038220D72A7C2E104FE92388663B;249.
+(rerunfilecheck)             Checksum: 411155C3E728386299E6A7BD56377D5C;249.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22790 strings out of 493312
- 453188 string characters out of 3138898
- 514522 words of memory out of 3000000
- 25693 multiletter control sequences out of 15000+200000
+ 22794 strings out of 493312
+ 453223 string characters out of 3138898
+ 514523 words of memory out of 3000000
+ 25695 multiletter control sequences out of 15000+200000
  15595 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,65p,782b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1741,9 +1754,9 @@ fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr10.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/pl/plssbx10.pfb>
-Output written on cryptanalysis.pdf (15 pages, 355643 bytes).
+Output written on cryptanalysis.pdf (16 pages, 362005 bytes).
 PDF statistics:
- 478 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
+ 503 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
  100 words of extra memory for PDF output out of 10000 (max. 10000000)
 
