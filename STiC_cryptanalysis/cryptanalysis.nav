@@ -3,44 +3,18 @@
 \headcommand {\beamer@sectionpages {1}{1}}
 \headcommand {\beamer@subsectionpages {1}{1}}
 \headcommand {\sectionentry {1}{Advanced Encryption Standard}{2}{Advanced Encryption Standard}{0}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\beamer@subsectionentry {0}{1}{1}{2}{Agenda}}
-\headcommand {\slideentry {1}{1}{1}{2/2}{Agenda}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
 \headcommand {\beamer@framepages {2}{2}}
-\headcommand {\beamer@subsectionpages {2}{2}}
-\headcommand {\beamer@subsectionentry {0}{1}{2}{3}{Notation and properties}}
-\headcommand {\slideentry {1}{2}{1}{3/3}{Notation and properties}{0}}
+\headcommand {\slideentry {1}{0}{2}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\slideentry {1}{2}{2}{4/4}{Notation and properties}{0}}
+\headcommand {\slideentry {1}{0}{3}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\slideentry {1}{2}{3}{5/5}{Notation and properties}{0}}
+\headcommand {\slideentry {1}{0}{4}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\slideentry {1}{2}{4}{6/6}{Notation and properties}{0}}
+\headcommand {\slideentry {1}{0}{5}{6/6}{}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {1}{2}{5}{7/7}{Notation and properties}{0}}
-\headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@subsectionpages {3}{7}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{8}{Grover}}
-\headcommand {\slideentry {1}{3}{1}{8/8}{Grover}{0}}
-\headcommand {\beamer@framepages {8}{8}}
-\headcommand {\slideentry {1}{3}{2}{9/9}{Grover}{0}}
-\headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {1}{3}{3}{10/10}{Grover}{0}}
-\headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {1}{3}{4}{11/11}{Grover}{0}}
-\headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {1}{3}{5}{12/12}{Grover}{0}}
-\headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {1}{3}{6}{13/13}{Grover}{0}}
-\headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {1}{3}{7}{14/14}{Grover}{0}}
-\headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {1}{3}{8}{15/15}{Grover}{0}}
-\headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {1}{3}{9}{16/16}{Grover}{0}}
-\headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@partpages {1}{16}}
-\headcommand {\beamer@subsectionpages {8}{16}}
-\headcommand {\beamer@sectionpages {2}{16}}
-\headcommand {\beamer@documentpages {16}}
-\headcommand {\def \inserttotalframenumber {16}}
+\headcommand {\beamer@partpages {1}{6}}
+\headcommand {\beamer@subsectionpages {2}{6}}
+\headcommand {\beamer@sectionpages {2}{6}}
+\headcommand {\beamer@documentpages {6}}
+\headcommand {\def \inserttotalframenumber {6}}
