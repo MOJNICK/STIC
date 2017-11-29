@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 03:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 04:35
 entering extended mode
 **./cryptanalysis.tex
 (cryptanalysis.tex
@@ -1471,31 +1471,22 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [1
 
 {C:/Users/ja123/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./tlom.pdf>
-] (shor.tex
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 21.
-LaTeX Font Info:    Try loading font information for U+msa on input line 21.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+] (introduction.tex
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 28.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 21.
+LaTeX Font Info:    No file OMScmss.fd. on input line 28.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
+
+LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 28.
+
 <tlo.pdf, id=50, pagebox=cropbox, 1606.0pt x 1204.5pt>
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 21. on input line 21.
+Package pdftex.def Info: tlo.pdf  used on input line 28. on input line 28.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 21.
+e 28.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1504,37 +1495,35 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [2
 
  <./tlo.pdf>]
-<./figures/shor.png, id=88, 1190.94937pt x 434.37282pt>
-File: ./figures/shor.png Graphic file (type png)
-<use ./figures/shor.png>
-Package pdftex.def Info: ./figures/shor.png  used on input line 35. on input li
-ne 35.
-Package pdftex.def Info: Requested size: 297.73662pt x 108.59293pt on input lin
-e 35.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 46.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 46.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 35. on input line 35.
+Package pdftex.def Info: tlo.pdf  used on input line 46. on input line 46.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 35.
+e 46.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
 [3
-
- <./figures/shor.png>]
-File: tlo.pdf Graphic file (type pdf)
-<use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 49. on input line 49.
-Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 49.
-
-Overfull \hbox (7.33337pt too wide) has occurred while \output is active
- []  
- []
-
-[4
 
 ]
 File: tlo.pdf Graphic file (type pdf)
@@ -1547,7 +1536,171 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
+[4
+
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 75. on input line 75.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 75.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
 [5
+
+]
+<./figures/gates.png, id=164, 148.00896pt x 101.178pt>
+File: ./figures/gates.png Graphic file (type png)
+<use ./figures/gates.png>
+Package pdftex.def Info: ./figures/gates.png  used on input line 89. on input l
+ine 89.
+Package pdftex.def Info: Requested size: 192.41159pt x 131.53136pt on input lin
+e 89.
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 89. on input line 89.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 89.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[6
+
+ <./figures/gates.png (PNG copy)>]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 107. on input line 107.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 107.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[7
+
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 121. on input line 121.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 121.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[8
+
+]
+<./figures/grdiffusion.png, id=244, 1305.37688pt x 342.5297pt>
+File: ./figures/grdiffusion.png Graphic file (type png)
+<use ./figures/grdiffusion.png>
+Package pdftex.def Info: ./figures/grdiffusion.png  used on input line 134. on 
+input line 134.
+Package pdftex.def Info: Requested size: 284.52756pt x 74.6564pt on input line 
+134.
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 134. on input line 134.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 134.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[9
+
+ <./figures/grdiffusion.png>]) (groups.tex
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 11. on input line 11.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 11.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[10
+
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 24. on input line 24.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 24.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[11
+
+]) (shor.tex
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 15. on input line 15.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 15.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[12
+
+]
+<./figures/shor.png, id=351, 1190.94937pt x 434.37282pt>
+File: ./figures/shor.png Graphic file (type png)
+<use ./figures/shor.png>
+Package pdftex.def Info: ./figures/shor.png  used on input line 29. on input li
+ne 29.
+Package pdftex.def Info: Requested size: 297.73662pt x 108.59293pt on input lin
+e 29.
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 29. on input line 29.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 29.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[13
+
+ <./figures/shor.png>]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 43. on input line 43.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 43.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[14
+
+]
+File: tlo.pdf Graphic file (type pdf)
+<use tlo.pdf>
+Package pdftex.def Info: tlo.pdf  used on input line 56. on input line 56.
+Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
+e 56.
+
+Overfull \hbox (7.33337pt too wide) has occurred while \output is active
+ []  
+ []
+
+[15
 
 ]) (real_system.tex
 File: tlo.pdf Graphic file (type pdf)
@@ -1560,7 +1713,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
  []
 
-[6
+[16
 
 ])
 \tf@nav=\write7
@@ -1577,28 +1730,45 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
  (cryptanalysis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
-Package rerunfilecheck Info: File `cryptanalysis.out' has not changed.
-(rerunfilecheck)             Checksum: B59E2FB7B4ECD3A217D48CF019D54215;64.
+
+
+Package rerunfilecheck Warning: File `cryptanalysis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cryptanalysis.out':
+(rerunfilecheck)             Before: B59E2FB7B4ECD3A217D48CF019D54215;64
+(rerunfilecheck)             After:  411155C3E728386299E6A7BD56377D5C;249.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 22675 strings out of 493312
- 451112 string characters out of 3138898
- 514464 words of memory out of 3000000
- 25614 multiletter control sequences out of 15000+200000
- 14105 words of font info for 45 fonts, out of 3000000 for 9000
+ 22786 strings out of 493312
+ 453646 string characters out of 3138898
+ 517464 words of memory out of 3000000
+ 25687 multiletter control sequences out of 15000+200000
+ 15595 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,65p,782b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plss10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plss8.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/pl/plssbx10.pfb>
-Output written on cryptanalysis.pdf (6 pages, 227449 bytes).
+ype1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/pls
+sbx10.pfb>
+Output written on cryptanalysis.pdf (16 pages, 383202 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 506 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
