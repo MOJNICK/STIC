@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  4 DEC 2017 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  4 DEC 2017 10:21
 entering extended mode
 **./cryptanalysis.tex
 (cryptanalysis.tex
@@ -1769,9 +1769,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 48. on input line 48.
+Package pdftex.def Info: tlo.pdf  used on input line 49. on input line 49.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 48.
+e 49.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1782,9 +1782,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 67. on input line 67.
+Package pdftex.def Info: tlo.pdf  used on input line 68. on input line 68.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 67.
+e 68.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1795,9 +1795,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 78. on input line 78.
+Package pdftex.def Info: tlo.pdf  used on input line 79. on input line 79.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 78.
+e 79.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
