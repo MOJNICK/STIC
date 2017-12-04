@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  29 NOV 2017 06:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  4 DEC 2017 05:47
 entering extended mode
 **./cryptanalysis.tex
 (cryptanalysis.tex
@@ -1552,7 +1552,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [5
 
 ]
-<./figures/gates.png, id=177, 148.00896pt x 101.178pt>
+<./figures/gates.png, id=183, 148.00896pt x 101.178pt>
 File: ./figures/gates.png Graphic file (type png)
 <use ./figures/gates.png>
 Package pdftex.def Info: ./figures/gates.png  used on input line 89. on input l
@@ -1598,7 +1598,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [8
 
 ]
-<./figures/grdiffusion.png, id=255, 1305.37688pt x 342.5297pt>
+<./figures/grdiffusion.png, id=261, 1305.37688pt x 342.5297pt>
 File: ./figures/grdiffusion.png Graphic file (type png)
 <use ./figures/grdiffusion.png>
 Package pdftex.def Info: ./figures/grdiffusion.png  used on input line 134. on 
@@ -1657,7 +1657,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [12
 
 ]
-<./figures/shor.png, id=362, 1190.94937pt x 434.37282pt>
+<./figures/shor.png, id=368, 1190.94937pt x 434.37282pt>
 File: ./figures/shor.png Graphic file (type png)
 <use ./figures/shor.png>
 Package pdftex.def Info: ./figures/shor.png  used on input line 29. on input li
@@ -1690,7 +1690,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [14
 
 ]
-<./figures/qftsimple.jpg, id=416, 825.0825pt x 369.38pt>
+<./figures/qftsimple.jpg, id=422, 825.0825pt x 369.38pt>
 File: ./figures/qftsimple.jpg Graphic file (type jpg)
 <use ./figures/qftsimple.jpg>
 Package pdftex.def Info: ./figures/qftsimple.jpg  used on input line 58. on inp
@@ -1789,10 +1789,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22835 strings out of 493312
- 454162 string characters out of 3138898
+ 22883 strings out of 493312
+ 455429 string characters out of 3138898
  517554 words of memory out of 3000000
- 25727 multiletter control sequences out of 15000+200000
+ 25775 multiletter control sequences out of 15000+200000
  15595 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,65p,782b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1808,9 +1808,9 @@ C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/plr10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pl/pls
 sbx10.pfb>
-Output written on cryptanalysis.pdf (19 pages, 438422 bytes).
+Output written on cryptanalysis.pdf (19 pages, 440959 bytes).
 PDF statistics:
- 594 PDF objects out of 1000 (max. 8388607)
+ 600 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
