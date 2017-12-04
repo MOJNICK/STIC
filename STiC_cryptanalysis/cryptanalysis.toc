@@ -2,5 +2,5 @@
 \beamer@subsectionintoc {1}{1}{Agenda}{2}{0}{1}
 \beamer@subsectionintoc {1}{2}{Notation and properties}{3}{0}{1}
 \beamer@subsectionintoc {1}{3}{Grover}{8}{0}{1}
-\beamer@subsectionintoc {1}{4}{Bibliography}{20}{0}{1}
-\beamer@subsectionintoc {1}{5}{End}{21}{0}{1}
+\beamer@subsectionintoc {1}{4}{Bibliography}{21}{0}{1}
+\beamer@subsectionintoc {1}{5}{End}{22}{0}{1}
