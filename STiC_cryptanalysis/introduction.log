@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  4 DEC 2017 05:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  4 DEC 2017 06:04
 entering extended mode
 **./introduction.tex
 (introduction.tex
@@ -381,29 +381,6 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no â in font nullfont!
 Missing character: There is no € in font nullfont!
 Missing character: There is no ¢ in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no â in font nullfont!
-Missing character: There is no € in font nullfont!
-Missing character: There is no ¢ in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -439,14 +416,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 	\end{description}
+l.25 	\end{description}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.32 \subsection
+l.31 \subsection
                 {Notation and properties}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -461,7 +438,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \subsection{N
+l.31 \subsection{N
                   otation and properties}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -490,7 +467,7 @@ Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.35 	\frametitle
+l.34 	\frametitle
                  {Bra-ket notation}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -514,7 +491,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.36 		\framesubtitle
+l.35 		\framesubtitle
                      {Definition}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -540,7 +517,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 	{\normalsize
+l.37 	{\normalsize
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -563,16 +540,41 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no : in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
+(Font)              <5> on input line 38.
 ! Undefined control sequence.
 <recently read> \braket 
                         
-l.39 	\hspace{0.5cm}{Braâ€“ket notation: $\braket
-                                                 {x|y}$ is a standard notati...
+l.38 ...on, also known as Dirac notation: $\braket
+                                                  {x|y}$ is a standard notat...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -726,7 +728,7 @@ Missing character: There is no : in font nullfont!
 ! Undefined control sequence.
 <recently read> \bra 
                      
-l.41 	\hspace{0.0cm}{The left part: $\bra
+l.40 	\hspace{0.0cm}{The left part: $\bra
                                          {x}$, called the bra, is a row vect...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -777,7 +779,7 @@ Missing character: There is no : in font nullfont!
 ! Undefined control sequence.
 <recently read> \ket 
                      
-l.42 	\hspace{0.0cm}{The right part: $\ket
+l.41 	\hspace{0.0cm}{The right part: $\ket
                                           {y}$, called the ket, is a column ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -816,22 +818,22 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 32--44
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--43
 []
  []
 
 
-Overfull \hbox (13.75465pt too wide) in paragraph at lines 32--44
+Overfull \hbox (13.75465pt too wide) in paragraph at lines 31--43
 []$
  []
 
 
-Overfull \hbox (5.71527pt too wide) in paragraph at lines 32--44
+Overfull \hbox (5.71527pt too wide) in paragraph at lines 31--43
 \OML/cmm/m/it/10 x$
  []
 
 
-Overfull \hbox (5.2616pt too wide) in paragraph at lines 32--44
+Overfull \hbox (5.2616pt too wide) in paragraph at lines 31--43
 \OML/cmm/m/it/10 y$
  []
 
@@ -842,7 +844,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 	\frametitle
+l.50 	\frametitle
                  {Qbit}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -850,7 +852,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.51 	\frametitle
+l.50 	\frametitle
                  {Qbit}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -863,7 +865,7 @@ Missing character: There is no b in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Undefined control sequence.
-l.52 		\framesubtitle
+l.51 		\framesubtitle
                      {Definition}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -889,7 +891,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 	{\normalsize
+l.53 	{\normalsize
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1014,33 +1016,33 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no + in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 51--57
+Overfull \hbox (20.0pt too wide) in paragraph at lines 50--56
 [][]
  []
 
 
-Overfull \hbox (11.6667pt too wide) in paragraph at lines 51--57
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 50--56
 \OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 i$
  []
 
 
-Overfull \hbox (11.6667pt too wide) in paragraph at lines 51--57
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 50--56
 \OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 i$ 
  []
 
 
-Overfull \hbox (24.0949pt too wide) in paragraph at lines 51--57
+Overfull \hbox (24.0949pt too wide) in paragraph at lines 50--56
 \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10  \OMS/cmsy/m/n/10 i \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (25.87854pt too wide) in paragraph at lines 51--57
+Overfull \hbox (25.87854pt too wide) in paragraph at lines 50--56
 \OML/cmm/m/it/10 \OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 i \OT1/cm
 r/m/n/10 +
  []
 
 
-Overfull \hbox (17.85072pt too wide) in paragraph at lines 51--57
+Overfull \hbox (17.85072pt too wide) in paragraph at lines 50--56
 \OML/cmm/m/it/10 \OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 i$ 
  []
 
@@ -1051,7 +1053,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58     W
+l.57     W
           hen we measure this qubit in the standard basis, the probability o...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1261,42 +1263,42 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 58--60
+Overfull \hbox (20.0pt too wide) in paragraph at lines 57--59
 []
  []
 
 
-Overfull \hbox (11.6667pt too wide) in paragraph at lines 58--60
+Overfull \hbox (11.6667pt too wide) in paragraph at lines 57--59
 \OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 i$
  []
 
 
-Overfull \hbox (16.47574pt too wide) in paragraph at lines 58--60
+Overfull \hbox (16.47574pt too wide) in paragraph at lines 57--59
 \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 \OMS/cmsy/m/n/10 j[]$
  []
 
 
-Overfull \hbox (8.88892pt too wide) in paragraph at lines 58--60
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 57--59
 \OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 i$
  []
 
 
-Overfull \hbox (16.22572pt too wide) in paragraph at lines 58--60
+Overfull \hbox (16.22572pt too wide) in paragraph at lines 57--59
 \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 \OMS/cmsy/m/n/10 j[]$
  []
 
 
-Overfull \hbox (6.43404pt too wide) in paragraph at lines 58--60
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 57--59
 \OML/cmm/m/it/10 $
  []
 
 
-Overfull \hbox (6.18402pt too wide) in paragraph at lines 58--60
+Overfull \hbox (6.18402pt too wide) in paragraph at lines 57--59
 \OML/cmm/m/it/10 $
  []
 
 
-Overfull \hbox (58.8125pt too wide) detected at line 60
+Overfull \hbox (58.8125pt too wide) detected at line 59
 \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 \OMS/cmsy/m/n/10 j[] \OT1/cmr/m/n/10 + \OMS
 /cmsy/m/n/10 j\OML/cmm/m/it/10 \OMS/cmsy/m/n/10 j[] \OT1/cmr/m/n/10 = 1
  []
@@ -1308,7 +1310,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 	\frametitle
+l.66 	\frametitle
                  {Gates}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1316,7 +1318,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.67 	\frametitle
+l.66 	\frametitle
                  {Gates}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1330,7 +1332,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
-l.68 		\framesubtitle
+l.67 		\framesubtitle
                      {Definition}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1356,8 +1358,21 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 	{\normalsize
+l.69 	{\normalsize
                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70     \begin{block}
+                      {}	
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -1517,9 +1532,21 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 67--77
+! LaTeX Error: \begin{frame} on input line 65 ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 	\end{block}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 66--76
 [][]
  []
 
@@ -1530,7 +1557,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 	\frametitle
+l.79 	\frametitle
                  {Gates}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1538,7 +1565,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.80 	\frametitle
+l.79 	\frametitle
                  {Gates}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1552,7 +1579,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
-l.81 		\framesubtitle
+l.80 		\framesubtitle
                      {Example}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1574,14 +1601,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 		\begin{figure}
+l.82 		\begin{figure}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.85 			\includegraphics
+l.84 			\includegraphics
                         [scale=1.3]{gates}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1606,20 +1633,20 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 
-! LaTeX Error: \begin{frame} on input line 79 ended by \end{figure}.
+! LaTeX Error: \begin{frame} on input line 78 ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 		\end{figure}
+l.86 		\end{figure}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 80--88
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--87
 [][]
  []
 
@@ -1630,7 +1657,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 	\frametitle
+l.94 	\frametitle
                  {Unitary Transformation}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1638,7 +1665,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.95 	\frametitle
+l.94 	\frametitle
                  {Unitary Transformation}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1668,7 +1695,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.96 		\framesubtitle
+l.95 		\framesubtitle
                      {Definition}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1694,7 +1721,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 	{\normalsize
+l.97 	{\normalsize
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1800,12 +1827,12 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 95--102
+Overfull \hbox (20.0pt too wide) in paragraph at lines 94--101
 [][]
  []
 
 
-Overfull \hbox (57.40393pt too wide) detected at line 102
+Overfull \hbox (57.40393pt too wide) detected at line 101
 \OML/cmm/m/it/10 U \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 H[] \OMS/cmsy/m/n/10 ! \O
 ML/cmm/m/it/10 H[]
  []
@@ -1815,6 +1842,9 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -1842,18 +1872,23 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (41.70842pt too wide) in paragraph at lines 102--104
- $\OML/cmm/m/it/10 H[] [] H[]$
+Overfull \hbox (12.79863pt too wide) in paragraph at lines 101--103
+ $\OML/cmm/m/it/10 H[]$
  []
 
 
-Overfull \hbox (97.4718pt too wide) detected at line 104
+Overfull \hbox (12.79863pt too wide) in paragraph at lines 101--103
+\OML/cmm/m/it/10 H[]$
+ []
+
+
+Overfull \hbox (97.4718pt too wide) detected at line 103
 \OMS/cmsy/m/n/10 h\OML/cmm/m/it/10 Ux; Uy\OMS/cmsy/m/n/10 i[] \OT1/cmr/m/n/10 =
  \OMS/cmsy/m/n/10 h\OML/cmm/m/it/10 x; y\OMS/cmsy/m/n/10 i[]
  []
 
 ! Undefined control sequence.
-l.110 \subsection
+l.109 \subsection
                  {Grover}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1868,7 +1903,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.110 \subsection{G
+l.109 \subsection{G
                    rover}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1882,7 +1917,7 @@ Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.113 	\frametitle
+l.112 	\frametitle
                   {Grover's database search}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1913,7 +1948,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 ! Undefined control sequence.
-l.114 		\framesubtitle
+l.113 		\framesubtitle
                       {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1922,7 +1957,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 110--115
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--114
 []
  []
 
@@ -1934,7 +1969,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.116 		{\normalsize
+l.115 		{\normalsize
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1947,7 +1982,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 		\hspace{0.5cm}
+l.116 		\hspace{0.5cm}
                       {Grover's database search uses ability of quantum comp...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2098,13 +2133,14 @@ Missing character: There is no x in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
+Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 117--119
+Overfull \hbox (20.0pt too wide) in paragraph at lines 116--118
 []
  []
 
 
-Overfull \hbox (14.33571pt too wide) in paragraph at lines 117--119
+Overfull \hbox (14.33571pt too wide) in paragraph at lines 116--118
 []$ 
  []
 
@@ -2115,7 +2151,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 	\frametitle
+l.125 	\frametitle
                   {Grover's database search}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2123,7 +2159,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.126 	\frametitle
+l.125 	\frametitle
                   {Grover's database search}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2154,7 +2190,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 ! Undefined control sequence.
-l.127 		\framesubtitle
+l.126 		\framesubtitle
                       {Scheme}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2175,14 +2211,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.129 		\begin{figure}
+l.128 		\begin{figure}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.131 		\includegraphics
+l.130 		\includegraphics
                         [width=10cm]{grdiffusion}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2214,13 +2250,13 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 
-! LaTeX Error: \begin{frame} on input line 125 ended by \end{figure}.
+! LaTeX Error: \begin{frame} on input line 124 ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 	\end{figure}
+l.132 	\end{figure}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2234,11 +2270,11 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 21 strings out of 493312
- 324 string characters out of 3138898
- 58761 words of memory out of 3000000
- 3669 multiletter control sequences out of 15000+200000
+ 22 strings out of 493312
+ 333 string characters out of 3138898
+ 57761 words of memory out of 3000000
+ 3670 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,4n,12p,284b,106s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 18i,3n,12p,284b,106s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
