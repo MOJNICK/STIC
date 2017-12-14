@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  4 DEC 2017 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  15 DEC 2017 00:24
 entering extended mode
 **./real_system.tex
 (real_system.tex
@@ -453,7 +453,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.20 		\hspace{0.5cm}
-                     {Quantum Dots are a nano-scale crystals ($1^{-9}m$. As ...
+                     {Quantum Dots are a nano-scale crystals $(1^{-9}m)$. As...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -491,7 +491,6 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no ( in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -668,8 +667,8 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 20--22
  []
 
 
-Overfull \hbox (24.5163pt too wide) in paragraph at lines 20--22
-\OT1/cmr/m/n/10 1[]\OML/cmm/m/it/10 m$
+Overfull \hbox (32.2941pt too wide) in paragraph at lines 20--22
+\OT1/cmr/m/n/10 (1[]\OML/cmm/m/it/10 m\OT1/cmr/m/n/10 )$
  []
 
 
@@ -831,7 +830,6 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -978,18 +976,49 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 	
+l.43 	
       
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 44--45
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--44
 [][] 
  []
 
 ! Undefined control sequence.
-l.46 		\Huge
+l.45 		\Huge
+             \textbf{Summary}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (48.49974pt too wide) in paragraph at lines 45--46
+ \OT1/cmr/bx/n/10 Summary 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 	
+      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 53--54
+[][] 
+ []
+
+! Undefined control sequence.
+l.55 		\Huge
              \textbf{Time for questions}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -998,27 +1027,27 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (26.04848pt too wide) in paragraph at lines 46--47
+Overfull \hbox (26.04848pt too wide) in paragraph at lines 55--56
  \OT1/cmr/bx/n/10 Time 
  []
 
 
-Overfull \hbox (13.99994pt too wide) in paragraph at lines 46--47
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 55--56
  \OT1/cmr/bx/n/10 for 
  []
 
 
-Overfull \hbox (26.09846pt too wide) in paragraph at lines 46--47
+Overfull \hbox (26.09846pt too wide) in paragraph at lines 55--56
  \OT1/cmr/bx/n/10 ques- 
  []
 
 
-Overfull \hbox (24.34152pt too wide) in paragraph at lines 46--47
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 55--56
  \OT1/cmr/bx/n/10 tions 
  []
 
 ! Undefined control sequence.
-l.51 \subsection
+l.60 \subsection
                 {Bibliography}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1033,7 +1062,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 \subsection{B
+l.60 \subsection{B
                   ibliography}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1053,43 +1082,8 @@ Missing character: There is no y in font nullfont!
 ! Undefined control sequence.
 <argument> \frametitle 
                        
-l.54 	\frametitle
-                 {Advanced Encryption Standard}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no A in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-! Undefined control sequence.
-l.55 		\framesubtitle
-                     {Bibliography}
+l.63 	\frametitle
+                 {Bibliography}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1116,14 +1110,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 	{\normalsize
+l.64 	{\normalsize
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 51--57
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--65
 []
  []
 
@@ -1134,7 +1128,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58 	B
+l.66 	B
        ibliography:\\	
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1153,7 +1147,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 58--60
+Overfull \hbox (20.0pt too wide) in paragraph at lines 66--68
 [] 
  []
 
@@ -1164,7 +1158,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 {-
+l.69 {-
          Goong Chen, David A. Church, Berthold-Georg Englert, Carsten Henkel...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1437,12 +1431,12 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no / in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 61--66
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--74
 []
  []
 
 ! Undefined control sequence.
-l.71 \subsection
+l.79 \subsection
                 {End}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1457,7 +1451,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71 \subsection{E
+l.79 \subsection{E
                   nd}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1466,12 +1460,12 @@ Missing character: There is no E in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 71--75
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--83
 []
  []
 
 ! Undefined control sequence.
-l.76 		\Huge
+l.84 		\Huge
              \textbf{Thank you for attention!}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1480,32 +1474,32 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (32.4373pt too wide) in paragraph at lines 76--77
+Overfull \hbox (32.4373pt too wide) in paragraph at lines 84--85
  \OT1/cmr/bx/n/10 Thank 
  []
 
 
-Overfull \hbox (17.8888pt too wide) in paragraph at lines 76--77
+Overfull \hbox (17.8888pt too wide) in paragraph at lines 84--85
  \OT1/cmr/bx/n/10 you 
  []
 
 
-Overfull \hbox (13.99994pt too wide) in paragraph at lines 76--77
+Overfull \hbox (13.99994pt too wide) in paragraph at lines 84--85
  \OT1/cmr/bx/n/10 for 
  []
 
 
-Overfull \hbox (13.89574pt too wide) in paragraph at lines 76--77
+Overfull \hbox (13.89574pt too wide) in paragraph at lines 84--85
  \OT1/cmr/bx/n/10 at- 
  []
 
 
-Overfull \hbox (19.96518pt too wide) in paragraph at lines 76--77
+Overfull \hbox (19.96518pt too wide) in paragraph at lines 84--85
  \OT1/cmr/bx/n/10 ten- 
  []
 
 
-Overfull \hbox (23.30544pt too wide) in paragraph at lines 76--77
+Overfull \hbox (23.30544pt too wide) in paragraph at lines 84--85
  \OT1/cmr/bx/n/10 tion! 
  []
 

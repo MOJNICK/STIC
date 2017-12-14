@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  4 DEC 2017 10:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  15 DEC 2017 00:38
 entering extended mode
 **./cryptanalysis.tex
 (cryptanalysis.tex
@@ -1457,7 +1457,7 @@ Overfull \hbox (7.33337pt too wide) detected at line 142
  []  
  []
 
-<tlom.pdf, id=36, pagebox=cropbox, 1606.0pt x 1204.5pt>
+<tlom.pdf, id=12, pagebox=cropbox, 1606.0pt x 1204.5pt>
 File: tlom.pdf Graphic file (type pdf)
 <use tlom.pdf>
 Package pdftex.def Info: tlom.pdf  used on input line 146. on input line 146.
@@ -1472,21 +1472,21 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
 {C:/Users/ja123/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./tlom.pdf>
 ] (introduction.tex
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 21.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 27.
+LaTeX Font Info:    No file OMScmss.fd. on input line 21.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 27.
+(Font)              for symbol `textbullet' on input line 21.
 
-<tlo.pdf, id=70, pagebox=cropbox, 1606.0pt x 1204.5pt>
+<tlo.pdf, id=44, pagebox=cropbox, 1606.0pt x 1204.5pt>
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 27. on input line 27.
+Package pdftex.def Info: tlo.pdf  used on input line 21. on input line 21.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 27.
+e 21.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1496,18 +1496,18 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 
  <./tlo.pdf>]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 45.
-LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+(Font)              <6> on input line 39.
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 45.
+line 39.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1515,9 +1515,9 @@ thkerncmss.
 )
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 45. on input line 45.
+Package pdftex.def Info: tlo.pdf  used on input line 39. on input line 39.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 45.
+e 39.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1528,9 +1528,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 61. on input line 61.
+Package pdftex.def Info: tlo.pdf  used on input line 55. on input line 55.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 61.
+e 55.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1541,9 +1541,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 74. on input line 74.
+Package pdftex.def Info: tlo.pdf  used on input line 68. on input line 68.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 74.
+e 68.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1552,18 +1552,18 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [5
 
 ]
-<./figures/gates.png, id=191, 148.00896pt x 101.178pt>
+<./figures/gates.png, id=166, 148.00896pt x 101.178pt>
 File: ./figures/gates.png Graphic file (type png)
 <use ./figures/gates.png>
-Package pdftex.def Info: ./figures/gates.png  used on input line 88. on input l
-ine 88.
+Package pdftex.def Info: ./figures/gates.png  used on input line 82. on input l
+ine 82.
 Package pdftex.def Info: Requested size: 192.41159pt x 131.53136pt on input lin
-e 88.
+e 82.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 88. on input line 88.
+Package pdftex.def Info: tlo.pdf  used on input line 82. on input line 82.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 88.
+e 82.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1574,9 +1574,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  <./figures/gates.png (PNG copy)>]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 106. on input line 106.
+Package pdftex.def Info: tlo.pdf  used on input line 100. on input line 100.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 106.
+e 100.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1587,9 +1587,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 120. on input line 120.
+Package pdftex.def Info: tlo.pdf  used on input line 114. on input line 114.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 120.
+e 114.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1598,18 +1598,18 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [8
 
 ]
-<./figures/grdiffusion.png, id=270, 1305.37688pt x 342.5297pt>
+<./figures/grdiffusion.png, id=246, 1305.37688pt x 342.5297pt>
 File: ./figures/grdiffusion.png Graphic file (type png)
 <use ./figures/grdiffusion.png>
-Package pdftex.def Info: ./figures/grdiffusion.png  used on input line 133. on 
-input line 133.
+Package pdftex.def Info: ./figures/grdiffusion.png  used on input line 127. on 
+input line 127.
 Package pdftex.def Info: Requested size: 284.52756pt x 74.6564pt on input line 
-133.
+127.
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 133. on input line 133.
+Package pdftex.def Info: tlo.pdf  used on input line 127. on input line 127.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 133.
+e 127.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1659,13 +1659,13 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [12
 
 ]
-Overfull \hbox (65.97826pt too wide) detected at line 29
+Overfull \hbox (72.06163pt too wide) detected at line 29
 \OT1/mathkerncmss/m/sl/10.95 A[][]  \OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl
 /10.95 C\OT1/cmss/m/n/10.95 ) = (\OT1/mathkerncmss/m/sl/10.95 A \OMS/cmss/bx/n/
-10.95  \OT1/mathkerncmss/m/sl/10.95 A\OT1/cmss/m/n/10.95 )[]  (\OT1/mathkerncm
+10.95  \OT1/mathkerncmss/m/sl/10.95 A\OT1/cmss/m/n/10.95 )[]  (\OT1/mathkerncm
 ss/m/sl/10.95 C\OT1/cmss/m/n/10.95 ) = ((\OT1/mathkerncmss/m/sl/10.95 A[]  \OT1
 /cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 C\OT1/cmss/m/n/10.95 )) \OMS/cmss
-/bx/n/10.95  \OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 A[]  \OT1/cmss/
+/bx/n/10.95  \OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 A[]  \OT1/cmss/
 m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 C\OT1/cmss/m/n/10.95 )))[]  (\OT1/mathk
 erncmss/m/sl/10.95 C\OT1/cmss/m/n/10.95 )
  []
@@ -1683,7 +1683,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [13
 
 ]
-<./figures/shor.png, id=404, 1190.94937pt x 434.37282pt>
+<./figures/shor.png, id=380, 1190.94937pt x 434.37282pt>
 File: ./figures/shor.png Graphic file (type png)
 <use ./figures/shor.png>
 Package pdftex.def Info: ./figures/shor.png  used on input line 43. on input li
@@ -1703,7 +1703,7 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 [14
 
  <./figures/shor.png>]
-<./figures/qftsimple.jpg, id=432, 825.0825pt x 369.38pt>
+<./figures/qftsimple.jpg, id=408, 825.0825pt x 369.38pt>
 File: ./figures/qftsimple.jpg Graphic file (type jpg)
 <use ./figures/qftsimple.jpg>
 Package pdftex.def Info: ./figures/qftsimple.jpg  used on input line 59. on inp
@@ -1795,9 +1795,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 77. on input line 77.
+Package pdftex.def Info: tlo.pdf  used on input line 75. on input line 75.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 77.
+e 75.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1808,9 +1808,9 @@ Overfull \hbox (7.33337pt too wide) has occurred while \output is active
 ]
 File: tlo.pdf Graphic file (type pdf)
 <use tlo.pdf>
-Package pdftex.def Info: tlo.pdf  used on input line 88. on input line 88.
+Package pdftex.def Info: tlo.pdf  used on input line 86. on input line 86.
 Package pdftex.def Info: Requested size: 364.17706pt x 273.15117pt on input lin
-e 88.
+e 86.
 
 Overfull \hbox (7.33337pt too wide) has occurred while \output is active
  []  
@@ -1840,41 +1840,38 @@ Package rerunfilecheck Warning: File `cryptanalysis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `cryptanalysis.out':
-(rerunfilecheck)             Before: 3F615284ACF666416E13A3215617B4DE;366
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
 (rerunfilecheck)             After:  CCD2276EE67078D7142D9F0DC52E5912;366.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 22918 strings out of 493312
- 455727 string characters out of 3138898
- 517555 words of memory out of 3000000
- 25794 multiletter control sequences out of 15000+200000
+ 22856 strings out of 493312
+ 455179 string characters out of 3138898
+ 517408 words of memory out of 3000000
+ 25734 multiletter control sequences out of 15000+200000
  19109 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,65p,782b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Outline0.1.5.21} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.4.20} has been referenced but does not e
-xist, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-ssi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/pl/plssbx10.pfb>
-Output written on cryptanalysis.pdf (22 pages, 462045 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmssi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/pl/plss10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/pl/plss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/pl/plssbx10.pfb>
+Output written on cryptanalysis.pdf (22 pages, 459974 bytes).
 PDF statistics:
- 687 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 666 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
